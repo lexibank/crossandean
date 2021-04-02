@@ -1,0 +1,151 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_one,one,1493,ONE
+2_two,two,1498,TWO
+3_three,three,492,THREE
+4_four,four,1500,FOUR
+5_five,five,493,FIVE
+6_six,six,1703,SIX
+7_seven,seven,1704,SEVEN
+8_eight,eight,1705,EIGHT
+9_nine,nine,1483,NINE
+10_ten,ten,1515,TEN
+11_year,year,1226,YEAR
+12_righthandside,right (hand side),1019,RIGHT
+13_lefthandside,left (hand side),244,LEFT
+14_weinclusive,we (inclusive),1131,WE (INCLUSIVE)
+15_thouyousg,thou (you sg.),1215,THOU
+16_not,not,1240,NOT
+17_what,what?,1236,WHAT
+18_who,who?,1235,WHO
+19_this,this,1214,THIS
+20_with,with,1340,WITH
+21_head,head,1256,HEAD
+22_face,face,1560,FACE
+23_forehead,forehead,123,FOREHEAD
+24_hair,hair,2648,HAIR (HEAD)
+25_eye,eye,1248,EYE
+26_nose,nose,1221,NOSE
+27_ear,ear,1247,EAR
+28_mouth,mouth,674,MOUTH
+29_lip,lip,478,LIP
+30_tongue,tongue,1205,TONGUE
+31_tooth,tooth,1380,TOOTH
+32_hand,hand,1277,HAND
+33_elbow,elbow,981,ELBOW
+34_neck,neck,1333,NECK
+35_back,back,1291,BACK
+36_foot,foot,1301,FOOT
+37_leg,leg,1297,LEG
+38_knee,knee,1371,KNEE
+39_blood,blood,946,BLOOD
+40_bone,bone,1394,BONE
+41_skin,skin,763,SKIN
+42_fingernail,fingernail,1258,FINGERNAIL
+43_bellystomach,belly (stomach),1251,BELLY
+44_navel,navel,1838,NAVEL
+45_breast,breast,1402,BREAST
+46_heart,heart,1223,HEART
+47_dog,dog,2009,DOG
+48_fox,fox,1312,FOX
+49_mouse,mouse,1491,MOUSE
+50_bird,bird,937,BIRD
+51_worm,worm,1219,WORM
+52_louse,louse,1392,LOUSE
+53_egg,egg,744,EGG
+54_horn,horn,1393,HORN (ANATOMY)
+55_tail,tail,1220,TAIL
+56_wing,wing,1257,WING
+57_manswperson,man SW person,683,PERSON
+58_manswadultmale,"man SW adult, male",1554,MAN
+59_woman,woman,962,WOMAN
+60_name,name,1405,NAME
+61_brotherofman,brother (of man) ,559,BROTHER (OF MAN)
+62_brotherofwoman,brother (of woman) ,560,BROTHER (OF WOMAN)
+63_sisterofman,sister (of man),561,SISTER (OF MAN)
+64_sisterofwoman,sister (of woman),562,SISTER (OF WOMAN)
+67_night,night,1233,NIGHT
+65_husband,husband,1200,HUSBAND
+66_day,day,1225,DAY (NOT NIGHT)
+68_sun,sun,1343,SUN
+69_moon,moon,1313,MOON
+70_star,star,1430,STAR
+71_shadow,shadow,1388,SHADE
+72_water,water,948,WATER
+73_river,river,666,RIVER
+74_mountain,mountain,639,MOUNTAIN
+75_fire,fire,221,FIRE
+76_smoke,smoke,778,SMOKE (EXHAUST)
+77_ash,ash,646,ASH
+78_stone,stone,857,STONE
+79_sand,sand,671,SAND
+80_gold,gold,1369,GOLD
+81_rain,rain,2108,RAINING OR RAIN
+82_cloud,cloud,1489,CLOUD
+83_wind,wind,960,WIND
+84_bread,bread,1368,BREAD
+85_meatswflesh,meat SW flesh,2615,FLESH OR MEAT
+86_salt,salt,1274,SALT
+87_fatgrease,fat (grease),323,FAT (ORGANIC SUBSTANCE)
+88_seed,seed,714,SEED
+89_tree,tree,906,TREE
+90_root,root,670,ROOT
+91_branch,branch,1531,BRANCH
+92_leaf,leaf,628,LEAF
+93_grass,grass,606,GRASS
+94_flower,flower,239,FLOWER
+95_rope,rope,1218,ROPE
+96_road,road,667,ROAD
+97_black,black,163,BLACK
+98_white,white,1335,WHITE
+99_red,red,156,RED
+100_green,green,1425,GREEN
+101_yellow,yellow,1424,YELLOW
+102_big,big,1202,BIG
+103_highup,high up,1591,UP
+104_small,small,1246,SMALL
+105_youngfemale,young (female),563,YOUNG (OF WOMAN)
+106_youngmale,young (male),564,YOUNG (OF MAN)
+107_oldman,old (man),565,OLD (OF MAN)
+108_oldwoman,old (woman),566,OLD (OF WOMAN)
+109_besick,be sick,1847,SICK
+110_tire,tire,1996,GET TIRED
+111_many,many,1198,MANY
+112_full,full,1429,FULL
+113_empty,empty,1624,EMPTY
+114_heavy,heavy,1210,HEAVY
+115_lightnotheavy,light (not heavy),1052,LIGHT (WEIGHT)
+116_faraway,far (away),1406,FAR
+117_warmhotsw,warm / hot SW,2272,HOT OR WARM
+118_cold,cold,1287,COLD
+119_dry,dry,1398,DRY
+120_sweet,sweet,717,SWEET
+121_happybe,happy (be),1495,HAPPY
+122_new,new,1231,NEW
+123_goto,"go, to",695,GO
+124_cometo,"come, to",1446,COME
+125_walkto,"walk, to",1443,WALK
+126_standto,"stand, to",1442,STAND
+127_sitto,"sit, to",1416,SIT
+128_swimto,"swim, to",1439,SWIM
+129_flyto,"fly, to",1441,FLY (MOVE THROUGH AIR)
+130_hideto,"hide, to",602,HIDE (CONCEAL)
+131_eatto,"eat, to",1336,EAT
+132_drinkto,"drink, to",1401,DRINK
+133_biteto,"bite, to",1403,BITE
+134_suckto,"suck, to",1421,SUCK
+135_lickto,"lick, to",319,LICK
+136_spitto,"spit, to",1440,SPIT
+137_sleepto,"sleep, to",1585,SLEEP
+138_liveto,"live, to",1422,BE ALIVE
+139_dieto,"die, to",1494,DIE
+140_seeto,"see, to",1409,SEE
+141_hearto,"hear, to",1408,HEAR
+142_knowto,"know, to",1410,KNOW (SOMETHING)
+143_thinkoveraboutto,"think (over, about), to",1415,THINK (REFLECT)
+144_speakto,"speak, to",1623,SPEAK
+145_laughto,"laugh, to",1355,LAUGH
+146_cryto,"cry, to",1839,CRY
+147_giveto,"give, to",1447,GIVE
+148_sewto,"sew, to",1457,SEW
+149_hitto,"hit, to",353,STRIKE
+150_pushto,"push, to",1452,PUSH

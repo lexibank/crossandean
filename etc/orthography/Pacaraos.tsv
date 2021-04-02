@@ -1,0 +1,80 @@
+Grapheme	IPA	Note
+qp	χ p	
+qf	χ f	
+qt	χ t	
+qs	χ s	
+qn	χ n	
+ql	χ l	
+qr	χ ɾ	
+qrr	χ r	
+qch	χ tʃ	
+qsh	χ ç	
+qtr	χ ʈʂ	
+qk	χ k	
+qh	χ x	
+nq	ɴ χ	
+q$	χ	
+q	ʁ	
+p	p	
+^b	b	
+b	β	
+t	t	
+d	d	
+f	f	
+mt	n t	
+md	n d	
+mk	ŋ k	
+m-t	n+t	
+m-d	n+d	
+m-k	ŋ+k	
+m	m	
+w	w	
+s	s	
+ntr	ɳ ʈʂ	
+nch	ɲ tʃ	
+ne	n e	
+ni	n i	
+na	n a	
+nu	n u	
+no	n o	
+nt	n t	
+ns	n s	
+nd	n d	
+nn	ŋ n	
+n	ŋ	
+l	l	
+rr	r	
+rs	ɹ s	unsure about ɹ; semi-vowel retroflex?
+rt	r t	variation with ʐ
+rd	r d	variation with ʐ
+rn	r n	variation with ʐ
+r	ɾ	
+ch	tʃ	
+shtr	ʂ ʈʂ	
+sh	ç	
+tr	ʈʂ	retroflex affricate
+ñ	ɲ	Adelaar gives it as palatal, could be velar?
+ll	ʎ	
+y	j	
+k	k	
+h	x	free variation with h
+g	ɣ	
+iiq	e: χ	
+qii	χ e:	
+uuq	o: χ	
+quu	χ o:	
+iq	e χ	
+qi	χ e	
+qu	χ o	
+uq	o χ	
+aa	a:	
+a	a	
+iy	i:	
+ii	i:	
+ee	e:	
+i	i	
+u	u	
+-	NULL	
+oo	o:	loanword
+e	e	loanword
+o	o	loanword

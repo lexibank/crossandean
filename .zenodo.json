@@ -1,0 +1,38 @@
+{
+    "title": "CLDF dataset derived from Blum et al.'s \"Una aproximaci\u00f3n filoling\u00fc\u00edstica a la clasificaci\u00f3n interna del Quechua\" from 2021",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Frederic Blum"
+        },
+        {
+            "name": "Carlos B. Ugarte"
+        },
+        {
+            "name": "Adriano Ingunza"
+        },
+        {
+            "name": "Zoe Poirier"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Forthcoming. Una aproximaci\u00f3n filoling\u00fc\u00edstica a la clasificaci\u00f3n interna del Quechua. Talk to be presented at Red Europea para los Estudios Andinos, T\u00fcbingen.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
