@@ -8,24 +8,31 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Blum et al.'s \"Una aproximaci\u00f3n filoling\u00fc\u00edstica a la clasificaci\u00f3n interna del Quechua\" from 2021",
+    "dcat:accessURL": "https://github.com/lexibank/crossandean",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/crossandean",
+            "dc:created": "36211c1"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes-325-gd68f7280c0"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-112-g5342637"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.0.0-2-gdf0f44c"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
