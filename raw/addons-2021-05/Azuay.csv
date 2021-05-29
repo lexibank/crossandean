@@ -1,4 +1,4 @@
-ID,CONCEPTICON_ID,CONCEPTICON_GLOSS,NUMBER,ENGLISH,SPANISH,FORM ,COMMENTS,DOCULECT,SOURCE
+id,concepticon_id,concepticon_gloss,number,concept,spanish,form,note,doculect,source
 Heggarty-2005-150-1,1493,ONE,1,one,uno,shug,,Azuay,cordero2001
 Heggarty-2005-150-2,1498,TWO,2,two,dos,ishcay,,Azuay,cordero2001
 Heggarty-2005-150-3,492,THREE,3,three,tres,quimsa,,Azuay,cordero2001
