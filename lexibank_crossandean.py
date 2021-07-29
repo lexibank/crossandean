@@ -1,22 +1,19 @@
 import attr
 from pathlib import Path
 
-from pylexibank import Concept, Language, Lexeme
+from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
+from lingpy import Wordlist
+from pyedictor import fetch
 
 from clldutils.misc import slug
+from unicodedata import normalize
 
 
-#@attr.s
-#class CustomConcept(Concept):
-#    Chinese_Gloss = attr.ib(default=None)
-#    Number = attr.ib(default=None)
-
-@attr.s
-class CustomLexeme(Lexeme):
-    ID = attr.ib(default=None)
-
+# @attr.s
+# class CustomLexeme(Lexeme):
+# ID = attr.ib(default=None)
 
 @attr.s
 class CustomLanguage(Language):
@@ -30,28 +27,56 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "crossandean"
     language_class = CustomLanguage
-    lexeme_class = CustomLexeme
+    # lexeme_class = CustomLexeme
+
+    def cmd_download(self, args):
+        print('updating ...')
+        with open(self.raw_dir.joinpath("crossandean.csv"), "w",
+                encoding="utf-8") as f:
+                f.write(fetch("crossandean"))
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
+
         concepts = {}
-        for concept in self.concepts:
-            idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
+        for i, concept in enumerate(self.concepts):
+            idx = str(i+1)+"_"+slug(concept["ENGLISH"])
             args.writer.add_concept(
-                    ID=idx,
-                    Name=concept['ENGLISH'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
-                    )
-            concepts[concept['ENGLISH']] = idx
+                ID=idx,
+                Name=concept["ENGLISH"],
+                Concepticon_ID=concept["CONCEPTICON_ID"],
+                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+            )
+            concepts[concept["ENGLISH"]] = idx
+        sources = {}
+        #for language in self.languages:
+        #    sources[language["ID"]] = language["Sources"].split(", ")
         languages = args.writer.add_languages(lookup_factory='ID')
-        for idx, language, concept, form, comments, source in progressbar(self.raw_dir.read_csv(
-                'crossandean.csv', delimiter=',')[1:]):
-            args.writer.add_forms_from_value(
-                    Language_ID=languages[language],
+
+        errors = set()
+        wl = Wordlist(self.raw_dir.joinpath('crossandean.csv').as_posix())
+        
+        for idx, language, concept, value, form, tokens in progressbar(wl.iter_rows(
+                "doculect", "concept", "value", "form", "tokens"),
+                desc="cldfify"):
+            if language not in languages:
+                errors.add(("language", language))
+            elif concept not in concepts:
+                errors.add(("concept", concept))
+            elif tokens:
+                lexeme = args.writer.add_form_with_segments(
                     Parameter_ID=concepts[concept],
-                    Value=form,
-                    Source=source,
-                    Comment=comments
+                    Language_ID=language,
+                    Value=value.strip() or form.strip(),
+                    Form=form.strip(),
+                    Segments=tokens#,
+                    #Source=source,
+                    #Comment=comment
                     )
-            
+                       # args.writer.add_cognate(
+                       #         lexeme=lexeme,
+                       #         Cognateset_ID=cogid+'-'+number,
+                       #         Source="Deepadung2015"
+                       #         )
+        for typ, error in sorted(errors):
+            print(typ+": "+error)
