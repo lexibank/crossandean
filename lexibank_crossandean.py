@@ -20,7 +20,6 @@ class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
-    ID = attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
@@ -36,13 +35,18 @@ class Dataset(BaseDataset):
         print('updating ...')
         with open(self.raw_dir.joinpath("crossandean.tsv"), "w",
                 encoding="utf-8") as f:
-                f.write(fetch("crossandean"))
+                f.write(fetch("crossandean",
+                    columns=["ID", "ALIGNMENT", "COGIDS", "CONCEPT",
+                        "DOCULECT", "FORM", 
+                        "SPANISH", "TOKENS", "VALUE", "BORROWING", "NOTE",
+                        "SOURCE"]
+                    ))
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
 
 
-        concept_lookup = {}
+        concepts = {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
@@ -52,7 +56,7 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept.concepticon_gloss
                     )
 
-            concept_lookup[concept.english] = idx
+            concepts[concept.english] = idx
 
         #concepts = {}
         #for i, concept in enumerate(self.concepts):
@@ -72,10 +76,10 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory='ID')
 
         errors = set()
-        wl = Wordlist(self.raw_dir.joinpath('crossandean.tsv').as_posix())
+        wl = Wordlist(str(self.raw_dir.joinpath('crossandean.tsv')))
         
         for idx, language, concept, value, form, tokens, comment, source in progressbar(wl.iter_rows(
-                "doculect", "concept", "value", "form", "tokens", "comment", "source"),
+                "doculect", "concept", "value", "form", "tokens", "note", "source"),
                 desc="cldfify"):
             if language not in languages:
                 errors.add(("language", language))
@@ -84,7 +88,7 @@ class Dataset(BaseDataset):
             elif tokens:
                 lexeme = args.writer.add_form_with_segments(
                     # Parameter_ID=concepts[concept],
-                    Parameter_ID = concept_lookup[concept],
+                    Parameter_ID = concepts[concept],
                     Language_ID=language,
                     Value=value.strip() or form.strip(),
                     Form=form.strip(),
