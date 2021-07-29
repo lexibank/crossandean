@@ -3,6 +3,9 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Forthcoming. Una aproximaci\u00f3n filoling\u00fc\u00edstica a la clasificaci\u00f3n interna del Quechua. Talk to be presented at Red Europea para los Estudios Andinos, T\u00fcbingen.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Heggarty-2005-150"
+    ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -14,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/crossandean",
-            "dc:created": "29c5f48"
+            "dc:created": "5b2e489"
         },
         {
             "rdf:type": "prov:Entity",
