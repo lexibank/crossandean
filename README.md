@@ -33,7 +33,7 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 - **Sources:** 0
 - **Synonymy:** 1.06
 - **Invalid lexemes:** 0
-- **Tokens:** 34,478
+- **Tokens:** 34,441
 - **Segments:** 93 (0 BIPA errors, 0 CTLS sound class errors, 93 CLTS modified)
 - **Inventory size (avg):** 32.28
 

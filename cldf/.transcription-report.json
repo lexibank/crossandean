@@ -286,7 +286,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 60,
+                "+": 59,
                 "a": 169,
                 "ai": 9,
                 "au": 2,
@@ -601,7 +601,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 4,
+                "+": 3,
                 "a": 148,
                 "ai": 9,
                 "au": 2,
@@ -918,7 +918,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 10,
+                "+": 9,
                 "a": 195,
                 "ai": 8,
                 "au": 2,
@@ -1542,7 +1542,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 9,
+                "+": 8,
                 "a": 142,
                 "ai": 5,
                 "au": 2,
@@ -1861,7 +1861,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 5,
+                "+": 4,
                 "a": 148,
                 "ai": 6,
                 "au": 2,
@@ -2176,7 +2176,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 40,
+                "+": 39,
                 "a": 169,
                 "ai": 6,
                 "au": 1,
@@ -2810,7 +2810,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 4,
+                "+": 3,
                 "a": 139,
                 "ai": 11,
                 "au": 2,
@@ -3438,7 +3438,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 9,
+                "+": 8,
                 "a": 144,
                 "ai": 1,
                 "au": 1,
@@ -3765,7 +3765,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 6,
+                "+": 5,
                 "a": 133,
                 "ai": 8,
                 "au": 1,
@@ -4088,7 +4088,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 35,
+                "+": 31,
                 "a": 110,
                 "ai": 2,
                 "a\u02d0": 1,
@@ -4416,7 +4416,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 8,
+                "+": 7,
                 "a": 137,
                 "ai": 7,
                 "au": 1,
@@ -4739,7 +4739,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 6,
+                "+": 5,
                 "a": 139,
                 "ai": 10,
                 "h": 7,
@@ -5060,7 +5060,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 34,
+                "+": 33,
                 "a": 139,
                 "ai": 10,
                 "au": 2,
@@ -5372,7 +5372,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 11,
+                "+": 10,
                 "a": 143,
                 "a:": 2,
                 "ai": 6,
@@ -6013,7 +6013,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 17,
+                "+": 16,
                 "a": 195,
                 "ai": 4,
                 "a\u02d0": 2,
@@ -6337,7 +6337,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 5,
+                "+": 4,
                 "a": 143,
                 "ai": 10,
                 "au": 2,
@@ -7287,7 +7287,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 7,
+                "+": 6,
                 "a": 130,
                 "ai": 8,
                 "d": 7,
@@ -7941,7 +7941,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 11,
+                "+": 10,
                 "a": 161,
                 "a:": 5,
                 "ai": 6,
@@ -8586,7 +8586,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 12,
+                "+": 11,
                 "a": 172,
                 "a:": 2,
                 "ai": 5,
@@ -9232,7 +9232,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 12,
+                "+": 11,
                 "a": 145,
                 "ai": 8,
                 "au": 1,
@@ -9552,7 +9552,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 6,
+                "+": 4,
                 "a": 137,
                 "ai": 11,
                 "au": 2,
@@ -9868,7 +9868,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 9,
+                "+": 8,
                 "a": 139,
                 "ai": 8,
                 "e": 2,
@@ -11150,7 +11150,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 9,
+                "+": 8,
                 "a": 142,
                 "ai": 8,
                 "b": 1,
@@ -11478,7 +11478,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 11,
+                "+": 10,
                 "a": 190,
                 "ai": 4,
                 "a\u02d0": 1,
@@ -11802,7 +11802,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 6,
+                "+": 5,
                 "a": 130,
                 "ai": 8,
                 "b": 1,
@@ -13076,7 +13076,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 24,
+                "+": 23,
                 "a": 123,
                 "a:": 2,
                 "ai": 10,
@@ -13394,7 +13394,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 51,
+                "+": 50,
                 "a": 171,
                 "ai": 9,
                 "au": 2,
@@ -13715,7 +13715,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 14,
+                "+": 13,
                 "a": 143,
                 "ai": 4,
                 "au": 1,
@@ -14035,7 +14035,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 13,
+                "+": 12,
                 "a": 190,
                 "ai": 4,
                 "a\u02d0": 1,
@@ -14356,7 +14356,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 6,
+                "+": 5,
                 "a": 133,
                 "ai": 7,
                 "au": 1,
@@ -15004,7 +15004,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 11,
+                "+": 10,
                 "a": 137,
                 "ai": 4,
                 "au": 1,
@@ -15660,7 +15660,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 23,
+                "+": 22,
                 "a": 123,
                 "a:": 2,
                 "ai": 11,
@@ -15977,7 +15977,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 8,
+                "+": 7,
                 "a": 147,
                 "a:": 2,
                 "b": 2,
@@ -16016,254 +16016,8 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Anonimo-20_with-1",
-                "Anonimo",
-                "20_with",
-                "huan",
-                "+ w a n"
-            ],
-            [
-                "Apuri-20_with-1",
-                "Apuri",
-                "20_with",
-                "wan",
-                "+ w a n"
-            ],
-            [
-                "Apurimac-20_with-1",
-                "Apurimac",
-                "20_with",
-                "-wan",
-                "+ w a n"
-            ],
-            [
-                "Atalla-20_with-1",
-                "Atalla",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Ayacucho-20_with-1",
-                "Ayacucho",
-                "20_with",
-                "-wan",
-                "+ w a \u014b"
-            ],
-            [
-                "Azuay-20_with-1",
-                "Azuay",
-                "20_with",
-                "-huan",
-                "+ w a n"
-            ],
-            [
-                "Cacra-Hongos-20_with-1",
-                "Cacra-Hongos",
-                "20_with",
-                "-wan",
-                "+ m a n"
-            ],
-            [
-                "Chacpar-20_with-1",
-                "Chacpar",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Chetilla-20_with-1",
-                "Chetilla",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Chipaya-20_with-1",
-                "Chipaya",
-                "20_with",
-                ".zh.tan",
-                "+ z h + t a n"
-            ],
-            [
-                "Chipaya-20_with-2",
-                "Chipaya",
-                "20_with",
-                ".a.tan",
-                "+ a + t a n"
-            ],
-            [
-                "Curva-20_with-1",
-                "Curva",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Cuzco-20_with-1",
-                "Cuzco",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "CuzquenoAntiguo-20_with-1",
-                "CuzquenoAntiguo",
-                "20_with",
-                "huan",
-                "+ w a n"
-            ],
-            [
-                "Huallaga-20_with-1",
-                "Huallaga",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Huancane-20_with-1",
-                "Huancane",
-                "20_with",
-                ".mpi",
-                "+ m p i"
-            ],
-            [
-                "Huangascar-20_with-1",
-                "Huangascar",
-                "20_with",
-                "-wan",
-                "+ m a n"
-            ],
-            [
-                "Inkawasi-20_with-1",
-                "Inkawasi",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Jaqaru-20_with-1",
-                "Jaqaru",
-                "20_with",
-                ".w\u0161qa",
-                "+ w \u0283 q a"
-            ],
-            [
-                "Kawki-20_with-1",
-                "Kawki",
-                "20_with",
-                ".w\u0161qa",
-                "+ w \u0283 q a"
-            ],
-            [
-                "Laraos-20_with-1",
-                "Laraos",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Lincha-Tana-20_with-1",
-                "Lincha-Tana",
-                "20_with",
-                "-wan",
-                "+ w a n"
-            ],
-            [
-                "Lincha-Tana-20_with-2",
-                "Lincha-Tana",
-                "20_with",
-                "-man",
-                "+ m a n"
-            ],
-            [
-                "Maragua-20_with-1",
-                "Maragua",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Pocona-20_with-1",
-                "Pocona",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Puki-20_with-1",
-                "Puki",
-                "20_with",
-                ".nti",
-                "+ n t i"
-            ],
-            [
-                "Puno-20_with-1",
-                "Puno",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Santiagueno-20_with-1",
-                "Santiagueno",
-                "20_with",
-                "-an",
-                "+ a n"
-            ],
-            [
-                "SantoTomas-20_with-1",
-                "SantoTomas",
-                "20_with",
-                "guam",
-                "+ w a m"
-            ],
-            [
-                "Serena-20_with-1",
-                "Serena",
-                "20_with",
-                ".wa",
-                "+ w a"
-            ],
-            [
-                "Sullkatiti-20_with-1",
-                "Sullkatiti",
-                "20_with",
-                ".mpi",
-                "+ m p i"
-            ],
-            [
-                "Taquile-20_with-1",
-                "Taquile",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Troje-20_with-1",
-                "Troje",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ],
-            [
-                "Wari-20_with-1",
-                "Wari",
-                "20_with",
-                "-wan",
-                "+ w a \u0272"
-            ],
-            [
-                "Yanac-20_with-1",
-                "Yanac",
-                "20_with",
-                ".wan",
-                "+ w a n"
-            ]
-        ],
-        "bad_words_count": 35,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -16552,7 +16306,7 @@
         },
         "sclass_errors": [],
         "segments": {
-            "+": 811,
+            "+": 774,
             "a": 7130,
             "a:": 46,
             "ai": 354,

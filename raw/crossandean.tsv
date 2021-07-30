@@ -3021,39 +3021,39 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 3092		p a: t - i	7073	two	Tsimu	pá:ti	dos	p a: t i	pá:ti			
 3093		i ʃ k ai	7072	two	Wari	ishkay	dos	i ʃ k ai	ishkay			
 3094		- i ʃ - k e: - -	7072	two	Yanac	iške:	dos	i ʃ k e:	iške:			
-3095		+ w a n	7626	with	Anonimo	huan	con	+ w a n	huan			
-3096		 + w a n	7626	with	Apuri	wan	con	+ w a n	wan			
-3097		+ w a n	7626	with	Apurimac	-wan	con	+ w a n	-wan			
-3098		+ w a n	7626	with	Atalla	.wan	con	+ w a n	.wan			
-3099		+ w a ŋ	7626	with	Ayacucho	-wan	con	+ w a ŋ	-wan			
-3100		+ m a n	7626	with	Cacra-Hongos	-wan	con	+ m a n	-wan			
-3101		+ w a n	7626	with	Chacpar	.wan	con	+ w a n	.wan			
-3102		+ w a n	7626	with	Chetilla	.wan	con	+ w a n	.wan			
-3103		+ z h + - t a n	7627	with	Chipaya	.zh.tan	con	+ z h + t a n	.zh.tan, .a.tan		zh.tan for M, a.tan for F	
-3104		+ a + - t a n	7627	with	Chipaya	.a.tan	con	+ a + t a n	.zh.tan, .a.tan		zh.tan for M, a.tan for F	
-3105		+ w a n	7626	with	Curva	.wan	con	+ w a n	.wan			
-3106		+ w a n	7626	with	Cuzco	.wan	con	+ w a n	.wan			
-3107		+ w a n	7626	with	CuzquenoAntiguo	huan	con	+ w a n	huan			
-3108		+ w a n	7626	with	Huallaga	.wan	con	+ w a n	.wan			
-3109		+ m p i	7628	with	Huancane	.mpi	con	+ m p i	.mpi			
-3110		+ m a n	7626	with	Huangascar	-wan	con	+ m a n	-wan			
-3111		+ w a n	7626	with	Inkawasi	.wan	con	+ w a n	.wan			
-3112		+ w ʃ q a	7629	with	Jaqaru	.wšqa	con	+ w ʃ q a	.wšqa			
-3113		+ w ʃ q a	7629	with	Kawki	.wšqa	con	+ w ʃ q a	.wšqa			
-3114		+ w a n	7626	with	Laraos	.wan	con	+ w a n	.wan			
-3115		+ w a n	7626	with	Lincha-Tana	-wan	con	+ w a n	-wan			
-3116		+ w a n	7626	with	Maragua	.wan	con	+ w a n	.wan			
-3117		+ w a n	7626	with	Pocona	.wan	con	+ w a n	.wan			
-3118		+ n t i	7630	with	Puki	.nti	con	+ n t i	.nti			
-3119		+ w a n	7626	with	Puno	.wan	con	+ w a n	.wan			
-3120		+ - a n	7626	with	Santiagueno	-an	con	+ a n	-an		suffix	
-3121		+ w a m	7626	with	SantoTomas	guam	con	+ w a m	guam			
-3122		+ w a -	7626	with	Serena	.wa	con	+ w a	.wa			
-3123		+ m p i	7628	with	Sullkatiti	.mpi	con	+ m p i	.mpi			
-3124		+ w a n	7626	with	Taquile	.wan	con	+ w a n	.wan			
-3125		+ w a n	7626	with	Troje	.wan	con	+ w a n	.wan			
-3126		+ w a ɲ	7626	with	Wari	-wan	con	+ w a ɲ	-wan			
-3127		+ w a n	7626	with	Yanac	.wan	con	+ w a n	.wan			
+3095		w a n	7626	with	Anonimo	huan	con	w a n	huan		suffix	
+3096		w a n	7626	with	Apuri	wan	con	w a n	wan		suffix	
+3097		w a n	7626	with	Apurimac	-wan	con	w a n	-wan		suffix	
+3098		w a n	7626	with	Atalla	.wan	con	w a n	.wan		suffix	
+3099		w a ŋ	7626	with	Ayacucho	-wan	con	w a ŋ	-wan		suffix	
+3100		m a n	7626	with	Cacra-Hongos	-wan	con	m a n	-wan		suffix	
+3101		w a n	7626	with	Chacpar	.wan	con	w a n	.wan		suffix	
+3102		w a n	7626	with	Chetilla	.wan	con	w a n	.wan		suffix	
+3103		z h t a n	7627	with	Chipaya	.zh.tan	con	z h t a n	.zh.tan, .a.tan		suffix; zh.tan for M, a.tan for F	
+3104		a t a n	7627	with	Chipaya	.a.tan	con	a t a n	.zh.tan, .a.tan		suffix; zh.tan for M, a.tan for F	
+3105		w a n	7626	with	Curva	.wan	con	w a n	.wan		suffix	
+3106		w a n	7626	with	Cuzco	.wan	con	w a n	.wan		suffix	
+3107		w a n	7626	with	CuzquenoAntiguo	huan	con	w a n	huan		suffix	
+3108		w a n	7626	with	Huallaga	.wan	con	w a n	.wan		suffix	
+3109		m p i	7628	with	Huancane	.mpi	con	m p i	.mpi		suffix	
+3110		m a n	7626	with	Huangascar	-wan	con	m a n	-wan		suffix	
+3111		w a n	7626	with	Inkawasi	.wan	con	w a n	.wan		suffix	
+3112		w ʃ q a	7629	with	Jaqaru	.wšqa	con	w ʃ q a	.wšqa		suffix	
+3113		w ʃ q a	7629	with	Kawki	.wšqa	con	w ʃ q a	.wšqa		suffix	
+3114		w a n	7626	with	Laraos	.wan	con	w a n	.wan		suffix	
+3115		w a n	7626	with	Lincha-Tana	-wan	con	w a n	-wan		suffix	
+3116		w a n	7626	with	Maragua	.wan	con	w a n	.wan		suffix	
+3117		w a n	7626	with	Pocona	.wan	con	w a n	.wan		suffix	
+3118		n t i	7630	with	Puki	.nti	con	n t i	.nti		suffix	
+3119		w a n	7626	with	Puno	.wan	con	w a n	.wan		suffix	
+3120		 - a n	7626	with	Santiagueno	-an	con	a n	-an		suffix	
+3121		w a m	7626	with	SantoTomas	guam	con	w a m	guam		suffix	
+3122		w a	7626	with	Serena	.wa	con	w a	.wa		suffix	
+3123		m p i	7628	with	Sullkatiti	.mpi	con	m p i	.mpi		suffix	
+3124		w a n	7626	with	Taquile	.wan	con	w a n	.wan		suffix	
+3125		w a n	7626	with	Troje	.wan	con	w a n	.wan		suffix	
+3126		w a ɲ	7626	with	Wari	-wan	con	w a ɲ	-wan		suffix	
+3127		w a n	7626	with	Yanac	.wan	con	w a n	.wan		suffix	
 3128		- u m a	2769	head	Anonimo	vma	cabeza	u m a	vma			
 3129		- u m a	2769	head	Apuri	uma	cabeza	u m a	uma			
 3130		- u m a	2769	head	Apurimac	uma	cabeza	u m a	uma			
@@ -7278,7 +7278,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 7426			7384	what?	Azuay	ima	qué?	i m a	ima			
 7427			7479	who?	Azuay	pi	quién?	p i	pi			
 7428		k ai	6702	this	Azuay	cay	este	k ai	cay			
-7429			7626	with	Azuay	-huan	con	+ w a n	-huan			
+7429		w a n	7626	with	Azuay	-huan	con	w a n	-huan		suffix	
 7430			2769	head	Azuay	uma	cabeza	u m a	uma			
 7431			1632	face	Azuay	ñahui	cara	ɲ a w i	ñahui			
 7432			2160	forehead	Azuay	mati	frente (la)	m a t i	mati			
@@ -7415,7 +7415,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 7567		k u t u	170	small	Azuay	uchilla, cutu		k u t u	cutu		poss. esp?	
 7568		i n t i	6400	sun	Azuay	rupay, inti		i n t i	inti			
 7569		tʃ u tʃ u + n a	607	suck, to	Azuay	sunga-na, chuchu-na		tʃ u tʃ u + n a	chuchu-na			
-7570		+ m a n	7626	with	Lincha-Tana	-man		+ m a n	-man			
+7570		m a n	7626	with	Lincha-Tana	-man		m a n	-man		suffix	
 7571		m a tʃ u	4669	old (man)	SanPedro	machu		m a tʃ u	machu			
 7572		a w k i ʃ	96	old (man)	Lincha-Tana	awkish		a w k i ʃ	awkish			
 7573		a w k i ʃ	96	old (man)	Cacra-Hongos	awkish		a w k i ʃ	awkish			
