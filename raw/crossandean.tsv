@@ -651,7 +651,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 668		p i ʃ i p aː	6849	tire	HuarazHuailas	pishipaay	cansar(se)	p i ʃ i p aː	pishipaay			
 669		ʃ ai x u + ʃ k a	6848	tire	Imbabura	shaijushka	cansar(se)	ʃ ai x u + ʃ k a	shaijushka		tired (adjective)	
 670		ʃ ai k u	6848	tire	Inkawasi	ša.yku	cansar(se)	ʃ ai k u	ša.yku			
-671		ʃ a ik u	6848	tire	Jaqaru	ša.yku	cansar(se)	ʃ a ik u	ša.yku	quechua		
+671		ʃ ai k u	6848	tire	Jaqaru	ša.yku	cansar(se)	ʃ ai k u	ša.yku	quechua		
 672		ʃ ai k u	6848	tire	Kawki	ša.yku	cansar(se)	ʃ ai k u	ša.yku	quechua		
 673		ç ai k u	6848	tire	Lamas	shayku	cansar(se)	ç ai k u	shayku			
 674		ʃ ai k u	6848	tire	Laraos	ša.yku	cansar(se)	ʃ ai k u	ša.yku			
@@ -883,7 +883,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 911		kʰ e z h i	3641	light (not heavy)	Chipaya	khezhi	liviano, ligero (que pesa poco)	kʰ e z h i	khezhi			
 912		s u x - - a -	134	light (not heavy)	Curva	suxa	liviano, ligero (que pesa poco)	s u x a	suxa			
 913		tʃ h a ʎ - - a	3637	light (not heavy)	Cuzco	čhaλa	liviano, ligero (que pesa poco)	tʃ h a ʎ a	čhaλa			
-914		w a ir ai	3642	light (not heavy)	CuzquenoAntiguo	huayray	liviano, ligero (que pesa poco)	w a ir ai	huayray, huaman			
+914		w ai r ai	3642	light (not heavy)	CuzquenoAntiguo	huayray	liviano, ligero (que pesa poco)	w ai r ai	huayray, huaman			
 915		w a m - a n -	137	light (not heavy)	CuzquenoAntiguo	huaman	liviano, ligero (que pesa poco)	w a m a n	huayray, huaman			
 916		- a - n k a ʃ - -	133	light (not heavy)	Huallaga	ankaš	liviano, ligero (que pesa poco)	a n k a ʃ	ankaš			
 917		h a k j - a -	3638	light (not heavy)	Huanca	hakya	liviano, ligero (que pesa poco)	h a k j a	hakya			
@@ -1495,7 +1495,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 1537		ʃ a: - - - - - -	6159	stand, to	Yanac	ša:.	estar en pie	ʃ a:	ša:.			
 1538		t i j a + n i	5715	sit, to	Anonimo	tiani	estar sentado	t i j a + n i	tiani, tiacuni, tiaycuni			
 1539		t i j a + k u + n i	5715	sit, to	Anonimo	tiacuni	estar sentado	t i j a + k u + n i	tiani, tiacuni, tiaycuni			
-1540		t i j a + j +k u +n i	5715	sit, to	Anonimo	tiaycuni	estar sentado	t i j a + j +k u +n i	tiani, tiacuni, tiaycuni			
+1540		t i j a + j + k u + n i	5715	sit, to	Anonimo	tiaycuni	estar sentado	t i j a + j + k u + n i	tiani, tiacuni, tiaycuni			
 1541		t i j - - - - - a -	5715	sit, to	Apuri	tiya	estar sentado	t i j a	tiya			
 1542		t i j - - - - - a -	5715	sit, to	Apurimac	tiya	estar sentado	t i j a	tiya			
 1543		- - - - - p a tʃ i -	172	sit, to	Apurimac	pachi	estar sentado	p a tʃ i	pachi			
@@ -1707,7 +1707,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 1749		p a - - k a - -	2983	hide, to	Pocona	paka.	esconder (algo)	p a k a	paka.			
 1750		i m a + n t a	2986 2987	hide, to	Puki	ima.nta.	esconder (algo)	i m a + n t a	ima.nta.			
 1751		p a - - k a - -	2983	hide, to	Puno	paka.	esconder (algo)	p a k a	paka.			
-1752		p a k a + ku + tʃ i	2983	hide, to	Putumayo	pacacuchi	esconder (algo)	p a k a + ku + tʃ i	pacacuchi			
+1752		p a k a + k u + tʃ i	2983	hide, to	Putumayo	pacacuchi	esconder (algo)	p a k a + k u + tʃ i	pacacuchi			
 1753		p a k aː + j	2983	hide, to	Raimondi	pakaay	esconder (algo)	p a k aː + j	pakaay			
 1754		p a - - k a - -	2983	hide, to	SanPedro	paka	esconder (algo)	p a k a	paka			
 1755		p a x a + j	2983	hide, to	Santiagueno	pakay	esconder (algo)	p a x a + j	pakay		Fricativization? Cognate?	
@@ -2401,7 +2401,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 2460		j u j a	6655	think (over, about), to	Troje	yuya.	pensar (cogitar)	j u j a	yuya.			
 2461		j a ɾ p ai	6656	think (over, about), to	Wari	yarpay	pensar (cogitar)	j a ɾ p ai	yarpay			
 2462		- j a r p a -	6656	think (over, about), to	Yanac	yarpa.	pensar (cogitar)	j a r p a	yarpa.			
-2463		r i m a + ni	6056	speak, to	Anonimo	rimani rimarini	hablar	r i m a + ni	rimani rimarini		Teníamos dos formas juntas. Saqué rimarini.	
+2463		r i m a + n i	6056	speak, to	Anonimo	rimani rimarini	hablar	r i m a + n i	rimani rimarini		Teníamos dos formas juntas. Saqué rimarini.	
 2464		ɾ i m a - -	6056	speak, to	Apuri	rima-	hablar	ɾ i m a	rima-			
 2465		p a r l a - -	6058	speak, to	Apurimac	parla	hablar	p a r l a	parla			
 2466		r i m a - -	6056	speak, to	Apurimac	rima	hablar	r i m a	rima			
@@ -5205,193 +5205,193 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 5311		- - t u: - χ	19	name	Tsimu	tu:χ	nombre	t u: χ	tu:χ		ie en superscript	
 5312		x u t i - -	4269	name	Wari	huti	nombre	x u t i	huti			
 5313		ʃ u t i - -	4269	name	Yanac	šuti	nombre	ʃ u t i	šuti			
-5314		w au k e	666	brother (of man)	Anonimo	huauquentin	hermano (de varón)	w au k e	huauquentin			
-5315		w au q i	666	brother (of man)	Apuri	wawqui	hermano (de varón)	w au q i	wawqui			
-5316		w au q e	666	brother (of man)	Apurimac	wawqe	hermano (de varón)	w au q e	wawqe			
-5317		w au χ i	666	brother (of man)	Arma	wawqui	hermano (de varón)	w au χ i	wawqui			
-5318		w au χ i	666	brother (of man)	Atalla	wawχi	hermano (de varón)	w au χ i	wawχi			
-5319		w au χ e	666	brother (of man)	Ayacucho	wawque	hermano (de varón)	w au χ e	wawque			
-5320		w au k i	666	brother (of man)	Bobonaza	huauqui	hermano (de varón)	w au k i	huauqui			
-5321		w au q i	666	brother (of man)	Cacra-Hongos	wawqui	hermano (de varón)	w au q i	wawqui			
-5322		w au k i	666	brother (of man)	Chachapoyas	wawki	hermano (de varón)	w au k i	wawki			
-5323		w au q i	666	brother (of man)	Chacpar	wawqi	hermano (de varón)	w au q i	wawqi			
-5324		m a s a	5625	brother (of man)	Chetilla	masa	hermano (de varón)	m a s a	masa			
-5325		h i l a	668	brother (of man)	Chipaya	hila	hermano (de varón)	h i l a	hila	aymara		
-5326		w au q i	666	brother (of man)	Curva	wawqi	hermano (de varón)	w au q i	wawqi			
-5327		w ai q i	666	brother (of man)	Cuzco	wayqi	hermano (de varón)	w ai q i	wayqi			
-5328		w au χ i	666	brother (of man)	CuzquenoAntiguo	huauque	hermano (de varón)	w au χ i	huauque			
-5329		w au q i	666	brother (of man)	Huallaga	wawqi	hermano (de varón)	w au q i	wawqi			
-5330		w au ʔ i	666	brother (of man)	Huanca	wawqi	hermano (de varón)	w au ʔ i	wawqi			
-5331		h i l a	668	brother (of man)	Huancane	hila	hermano (de varón)	h i l a	hila			
-5332		w au q i	666	brother (of man)	Huangascar	wawqui	hermano (de varón)	w au q i	wawqui			
-5333		w au q i	666	brother (of man)	HuarazHuailas	wawqi	hermano (de varón)	w au q i	wawqi			
-5334		w au k i	666	brother (of man)	Imbabura	wawki	hermano (de varón)	w au k i	wawki			
-5335		- - u k - n i	720	brother (of man)	Inkawasi	ukni	hermano (de varón)	u k n i	uk(ə)ni			
-5336		tʃ - i ʃ	669	brother (of man)	Iruhito	tšíš	hermano (de varón)	tʃ i ʃ	tšíš			
-5337		q u n ts a	670	brother (of man)	Jaqaru	quntsa	hermano (de varón)	q u n ts a	quntsa			
-5338		q u n ts a	670	brother (of man)	Kawki	quntsa	hermano (de varón)	q u n ts a	quntsa			
-5339		w au k i	666	brother (of man)	Lamas	wawki	hermano (de varón)	w au k i	wawki			
-5340		w au q i	666	brother (of man)	Laraos	wawqi	hermano (de varón)	w au q i	wawqi			
-5341		w au q i	666	brother (of man)	Lincha-Tana	wawqui	hermano (de varón)	w au q i	wawqui			
-5342		ɲ a ɲ a	5669	brother (of man)	Maragua	ñaña	hermano (de varón)	ɲ a ɲ a	ñaña			
-5343		w au k i	666	brother (of man)	Napo	huauqui	hermano (de varón)	w au k i	huauqui			
-5344		w au χ e	666	brother (of man)	Pacaraos	wawqi	hermano (de varón)	w au χ e	wawqi			
-5345		w au k i	666	brother (of man)	Pastaza	wawqui	hermano (de varón)	w au k i	wawqui			
-5346		ɲ a ɲ a	5669	brother (of man)	Pocona	ñaña	hermano (de varón)	ɲ a ɲ a	ñaña			
-5347		h i l a	668	brother (of man)	Puki	hila	hermano (de varón)	h i l a	hila			
-5348		t u r a	716	brother (of man)	Puno	tura	hermano (de varón)	t u r a	tura			
-5349		w au x i	666	brother (of man)	Putumayo	huagqui	hermano (de varón)	w au x i	huagqui			
-5350		w au q i	666	brother (of man)	Raimondi	wawqi	hermano (de varón)	w au q i	wawqi			
-5351		p a n i	5624	sister (of man)	SanPedro	pani	hermano (de varón)	p a n i	pani			
-5352		w au q ɪ	666	brother (of man)	Santiagueno	wawqe	hermano (de varón)	w au q ɪ	wawqe			
-5353		w au q i	666	brother (of man)	SantoTomas	guauqui	hermano (de varón)	w au q i	guauqui			
-5354		w au k i	666	brother (of man)	Serena	wawki	hermano (de varón)	w au k i	wawki			
-5355		h i l a	668	brother (of man)	Sullkatiti	hila	hermano (de varón)	h i l a	hila			
-5356		w ai q i	666	brother (of man)	Taquile	wayqi	hermano (de varón)	w ai q i	wayqi			
-5357		w au χ e	666	brother (of man)	Tarma	wawxi	hermano (de varón)	w au χ e	wawxi			
-5358		w au k i	666	brother (of man)	Troje	wawki	hermano (de varón)	w au k i	wawki			
-5359		ts i s + i	669	brother (of man)	Tsimu	tsís-i	hermano (de varón)	ts i s + i	tsís-i			
-5360		w au q i	666	brother (of man)	Wari	wawqi	hermano (de varón)	w au q i	wawqi			
-5361		ɢ o: - q i	666	brother (of man)	Yanac	ġo:qi	hermano (de varón)	ɢ o: q i	ġo:qi			
-5362		p a n a	5624	brother (of woman)	Anonimo	panantin	hermano (de mujer)	p a n a	panantin			
-5363		t u ɾ i -	716	brother (of woman)	Apuri	turi	hermano (de mujer)	t u ɾ i	turi			
-5364		t o r ai	716	brother (of woman)	Apurimac	toray	hermano (de mujer)	t o r ai	toray			
-5365		t u ɾ i -	716	brother (of woman)	Arma	turi	hermano (de mujer)	t u ɾ i	turi			
-5366		t u r i -	716	brother (of woman)	Atalla	turi	hermano (de mujer)	t u r i	turi			
-5367		t u ɾ i -	716	brother (of woman)	Ayacucho	turi	hermano (de mujer)	t u ɾ i	turi			
-5368		t u r i -	716	brother (of woman)	Bobonaza	turi	hermano (de mujer)	t u r i	turi			
-5369		t u l i -	716	brother (of woman)	Cacra-Hongos	tuli	hermano (de mujer)	t u l i	tuli			
-5370		t u r i -	716	brother (of woman)	Chachapoyas	turi	hermano (de mujer)	t u r i	turi			
-5371		t u r i -	716	brother (of woman)	Chacpar	turi	hermano (de mujer)	t u r i	turi			
-5372		t u r i	716	brother (of woman)	Chetilla	turi	hermano (de mujer)	t u r i	turi		quesada	
-5373		h i l a	668	brother (of woman)	Chipaya	hila	hermano (de mujer)	h i l a	hila	aymara		
-5374		t u r a -	716	brother (of woman)	Curva	tura	hermano (de mujer)	t u r a	tura			
-5375		t u r a -	716	brother (of woman)	Cuzco	tura	hermano (de mujer)	t u r a	tura			
-5376		p a n a - - - -	5624	brother (of woman)	CuzquenoAntiguo	pana	hermano (de mujer)	p a n a	pana			
-5377		t u r i -	716	brother (of woman)	Huallaga	turi	hermano (de mujer)	t u r i	turi			
-5378		t u l i -	716	brother (of woman)	Huanca	tuli	hermano (de mujer)	t u l i	tuli			
-5379		h i l a	668	brother (of woman)	Huancane	hila	hermano (de mujer)	h i l a	hila			
-5380		t u ɾ i -	716	brother (of woman)	Huangascar	turi	hermano (de mujer)	t u ɾ i	turi			
-5381		t u ɾ i -	716	brother (of woman)	HuarazHuailas	turi	hermano (de mujer)	t u ɾ i	turi			
-5382		w au k i	666	brother (of woman)	Imbabura	wawki	hermano (de mujer)	w au k i	wawki			
-5383		u k n i	720	brother (of woman)	Inkawasi	ukni	hermano (de mujer)	u k n i	uk(ə)ni			
-5384		tʃ - i ʃ	669	brother (of woman)	Iruhito	tšíš	hermano (de mujer)	tʃ i ʃ	tšíš			
-5385		- a l u	14	brother (of woman)	Jaqaru	alu	hermano (de mujer)	a l u	alu			
-5386		- a l u	14	brother (of woman)	Kawki	alu	hermano (de mujer)	a l u	alu			
-5387		t u r i -	716	brother (of woman)	Lamas	turi	hermano (de mujer)	t u r i	turi			
-5388		t u r i -	716	brother (of woman)	Laraos	turi	hermano (de mujer)	t u r i	turi			
-5389		t u ɾ i -	716	brother (of woman)	Lincha-Tana	turi	hermano (de mujer)	t u ɾ i	turi			
-5390		ɲ a ɲ a - - - -	5669	brother (of woman)	Maragua	ñaña	hermano (de mujer)	ɲ a ɲ a	ñaña			
-5391		t u r i -	716	brother (of woman)	Napo	turi	hermano (de mujer)	t u r i	turi			
-5392		t u ɾ i -	716	brother (of woman)	Pacaraos	turi	hermano (de mujer)	t u ɾ i	turi			
-5393		t u r i -	716	brother (of woman)	Pastaza	turi	hermano (de mujer)	t u r i	turi			
-5394		ɲ a ɲ a - - - -	5669	brother (of woman)	Pocona	ñaña	hermano (de mujer)	ɲ a ɲ a	ñaña			
-5395		h i l a	668	brother (of woman)	Puki	hila	hermano (de mujer)	h i l a	hila			
-5396		t u r a -	716	brother (of woman)	Puno	tura	hermano (de mujer)	t u r a	tura			
-5397		t u r i -	716	brother (of woman)	Putumayo	turi	hermano (de mujer)	t u r i	turi			
-5398		t u ɾ i -	716	brother (of woman)	Raimondi	turi	hermano (de mujer)	t u ɾ i	turi			
-5399		ɲ a ɲ a - - - -	5669	sister (of woman)	SanPedro	ñaña	hermano (de mujer)	ɲ a ɲ a	ñaña			
-5400		t u ɾ a -	716	brother (of woman)	Santiagueno	tura	hermano (de mujer)	t u ɾ a	tura			
-5401		t o r a -	716	brother (of woman)	SantoTomas	tora	hermano (de mujer)	t o r a	tora, tori			
-5402		t o r i -	716	brother (of woman)	SantoTomas	tori	hermano (de mujer)	t o r i	tora, tori			
-5403		t u r i -	716	brother (of woman)	Serena	turi	hermano (de mujer)	t u r i	turi			
-5404		h i l a	668	brother (of woman)	Sullkatiti	hila	hermano (de mujer)	h i l a	hila			
-5405		t u r a -	716	brother (of woman)	Taquile	tura	hermano (de mujer)	t u r a	tura			
-5406		t u ɾ i -	716	brother (of woman)	Tarma	turi	hermano (de mujer)	t u ɾ i	turi			
-5407		t u r i -	716	brother (of woman)	Troje	turi	hermano (de mujer)	t u r i	turi			
-5408		ts i s + i	669	brother (of woman)	Tsimu	tsís-i	hermano (de mujer)	ts i s + i	tsís-i			
-5409		t u ɾ i -	716	brother (of woman)	Wari	turi	hermano (de mujer)	t u ɾ i	turi			
-5410		t u r i -	716	brother (of woman)	Yanac	turi	hermano (de mujer)	t u r i	turi			
-5411		t u r a	716	sister (of man)	Anonimo	turantin	hermana (de varón)	t u r a	turantin			
-5412		p a n i	5624	sister (of man)	Apuri	pani	hermana (de varón)	p a n i	pani			
-5413		p a n a	5624	sister (of man)	Apurimac	pana	hermana (de varón)	p a n a	pana			
-5414		p a n i	5624	sister (of man)	Arma	pani	hermana (de varón)	p a n i	pani			
-5415		p a n i	5624	sister (of man)	Atalla	pani	hermana (de varón)	p a n i	pani			
-5416		p a n i	5624	sister (of man)	Ayacucho	pani	hermana (de varón)	p a n i	pani			
-5417		p a n i	5624	sister (of man)	Bobonaza	pani	hermana (de varón)	p a n i	pani			
-5418		p a n i	5624	sister (of man)	Cacra-Hongos	pani	hermana (de varón)	p a n i	pani			
-5419		p a n i	5624	sister (of man)	Chachapoyas	pani	hermana (de varón)	p a n i	pani			
-5420		p a n i	5624	sister (of man)	Chacpar	pani	hermana (de varón)	p a n i	pani			
-5421		p a n i	5624	sister (of man)	Chetilla	pani	hermana (de varón)	p a n i	pani		quesada	
-5422		k u ʎ a k a	5626	sister (of man)	Chipaya	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka	aymara		
-5423		p a n a	5624	sister (of man)	Curva	pana	hermana (de varón)	p a n a	pana			
-5424		p a n a	5624	sister (of man)	Cuzco	pana	hermana (de varón)	p a n a	pana			
-5425		t u r a - - - -	716	sister (of man)	CuzquenoAntiguo	tura	hermana (de varón)	t u r a	tura			
-5426		p a ɲ i	5624	sister (of man)	Huallaga	pañi	hermana (de varón)	p a ɲ i	pañi			
-5427		p a n i	5624	sister (of man)	Huanca	pani	hermana (de varón)	p a n i	pani			
-5428		k u ʎ a k a	5626	sister (of man)	Huancane	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka			
-5429		p a n i	5624	sister (of man)	Huangascar	pani	hermana (de varón)	p a n i	pani			
-5430		p a ɲ i	5624	sister (of man)	HuarazHuailas	pani	hermana (de varón)	p a ɲ i	pani			
-5431		ɲ a ɲ a	5669	sister (of man)	Imbabura	ñaña	hermana (de varón)	ɲ a ɲ a	ñaña			
-5432		u k n i	5627	sister (of man)	Inkawasi	ukni	hermana (de varón)	u k n i	uk(ə)ni			
-5433		tʃ i n k i	5628	sister (of man)	Jaqaru	činki	hermana (de varón)	tʃ i n k i	činki			
-5434		tʃ i n k i	5628	sister (of man)	Kawki	činki	hermana (de varón)	tʃ i n k i	činki			
-5435		p a n i	5624	sister (of man)	Lamas	pani	hermana (de varón)	p a n i	pani			
-5436		p a n i	5624	sister (of man)	Laraos	pani	hermana (de varón)	p a n i	pani			
-5437		p a n i	5624	sister (of man)	Lincha-Tana	pani	hermana (de varón)	p a n i	pani			
-5438		ɲ a ɲ a	5669	sister (of man)	Maragua	ñaña	hermana (de varón)	ɲ a ɲ a	ñaña			
-5439		p a n i	5624	sister (of man)	Napo	pani	hermana (de varón)	p a n i	pani			
-5440		p a n i	5624	sister (of man)	Pacaraos	pani	hermana (de varón)	p a n i	pani			
-5441		p a n i	5624	sister (of man)	Pastaza	pani	hermana (de varón)	p a n i	pani			
-5442		ɲ a ɲ a	5669	sister (of man)	Pocona	ñaña	hermana (de varón)	ɲ a ɲ a	ñaña			
-5443		k u ʎ a k a	5626	sister (of man)	Puki	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka			
-5444		p a n a	5624	sister (of man)	Puno	pana	hermana (de varón)	p a n a	pana			
-5445		p a n i	5624	sister (of man)	Putumayo	pani	hermana (de varón)	p a n i	pani			
-5446		w au q e	666	brother (of man)	SanPedro	wawqi	hermana (de varón)	w au q e	wawqi		brother?	
-5447		p a n a	5624	sister (of man)	Santiagueno	pana	hermana (de varón)	p a n a	pana			
-5448		p a n a	5624	sister (of man)	SantoTomas	pana	hermana (de varón)	p a n a	pana		hermana cualquiera	
-5449		p a ɲ i	5624	sister (of man)	Serena	pañi	hermana (de varón)	p a ɲ i	pañi			
-5450		k u ʎ a k a	5626	sister (of man)	Sullkatiti	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka			
-5451		p a n a	5624	sister (of man)	Taquile	pana	hermana (de varón)	p a n a	pana			
-5452		p a n i	5624	sister (of man)	Tarma	pani	hermana (de varón)	p a n i	pani			
-5453		p a n i	5624	sister (of man)	Troje	pani	hermana (de varón)	p a n i	pani			
-5454		p a ɲ i	5624	sister (of man)	Wari	pani	hermana (de varón)	p a ɲ i	pani			
-5455		p a n i	5624	sister (of man)	Yanac	pani	hermana (de varón)	p a n i	pani			
-5456		ɲ a ɲ a	5669	sister (of woman)	Anonimo	ñañantin	hermana (de mujer)	ɲ a ɲ a	ñañantin			
-5457		ɲ a ɲ a - - - -	5669	sister (of woman)	Apuri	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5458		ɲ a ɲ a - - - -	5669	sister (of woman)	Apurimac	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5459		ɲ a ɲ a - - - -	5669	sister (of woman)	Arma	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5460		ɲ a ɲ a - - - -	5669	sister (of woman)	Atalla	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5461		ɲ a ɲ a - - - -	5669	sister (of woman)	Ayacucho	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5462		ɲ a ɲ a - - - -	5669	sister (of woman)	Bobonaza	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5463		ɲ a ɲ a - - - -	5669	sister (of woman)	Cacra-Hongos	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5464		ɲ a ɲ a - - - -	5669	sister (of woman)	Chachapoyas	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5465		ɲ a ɲ a - - - -	5669	sister (of woman)	Chacpar	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5466		m a s a	5625	sister (of woman)	Chetilla	masa	hermana (de mujer)	m a s a	masa			
-5467		k u ʎ a k a	5626	sister (of woman)	Chipaya	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka	aymara		
-5468		ɲ a ɲ a - - - -	5669	sister (of woman)	Curva	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5469		ɲ a ɲ a - - - -	5669	sister (of woman)	Cuzco	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5470		ɲ a ɲ a - - - -	5669	sister (of woman)	CuzquenoAntiguo	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5471		ɲ a ɲ a - - - -	5669	sister (of woman)	Huallaga	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5472		ɲ a ɲ a - - - -	5669	sister (of woman)	Huanca	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña 			
-5473		k u ʎ a k a	5626	sister (of woman)	Huancane	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka			
-5474		ɲ a ɲ a - - - -	5669	sister (of woman)	Huangascar	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5475		ɳ a ɳ a - - - -	5669	sister (of woman)	HuarazHuailas	ñaña	hermana (de mujer)	ɳ a ɳ a	ñaña			
-5476		ɲ a ɲ a - - - -	5669	sister (of woman)	Imbabura	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5477		u k n i	5627	sister (of woman)	Inkawasi	ukni	hermana (de mujer)	u k n i	uk(ə)ni			
-5478		tʃ i n k i	5628	sister (of woman)	Jaqaru	činki	hermana (de mujer)	tʃ i n k i	činki			
-5479		tʃ i n k i	5628	sister (of woman)	Kawki	činki	hermana (de mujer)	tʃ i n k i	činki			
-5480		ɲ a ɲ a - - - -	5669	sister (of woman)	Lamas	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5481		ɲ a ɲ a - - - -	5669	sister (of woman)	Laraos	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5482		ɲ u ɲ u - - - -	5669	sister (of woman)	Lincha-Tana	ñuñu	hermana (de mujer)	ɲ u ɲ u	ñuñu			
-5483		ɲ a ɲ a - - - -	5669	sister (of woman)	Maragua	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5484		ɲ a ɲ a - - - -	5669	sister (of woman)	Napo	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5485		ɲ a ɲ a - - - -	5669	sister (of woman)	Pacaraos	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5486		ɲ a ɲ a - - - -	5669	sister (of woman)	Pastaza	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5487		ɲ a ɲ a - - - -	5669	sister (of woman)	Pocona	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5488		k u ʎ a k a	5626	sister (of woman)	Puki	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka			
-5489		ɲ a ɲ a - - - -	5669	sister (of woman)	Puno	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5490		ɲ a ɲ a - - - -	5669	sister (of woman)	Putumayo	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5491		t u ɾ i	716	brother (of woman)	SanPedro	turi	hermana (de mujer)	t u ɾ i	turi		turi is brother	
-5492		ɲ a ɲ a - - - -	5669	sister (of woman)	Santiagueno	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5493		ɲ a ɲ a - - - -	5669	sister (of woman)	SantoTomas	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5494		ɲ a ɲ a - - - -	5669	sister (of woman)	Serena	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5495		k u ʎ a k a	5626	sister (of woman)	Sullkatiti	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka			
-5496		ɲ a ɲ a - - - -	5669	sister (of woman)	Taquile	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5497		n a n a - - - -	5669	sister (of woman)	Tarma	nana	hermana (de mujer)	n a n a	nana			
-5498		ɲ a ɲ a - - - -	5669	sister (of woman)	Troje	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
-5499		ɳ a ɳ a - - - -	5669	sister (of woman)	Wari	ñaña	hermana (de mujer)	ɳ a ɳ a	ñaña			
-5500		ɲ a ɲ a - - - -	5669	sister (of woman)	Yanac	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5314		w au k e	666	brother (man's)	Anonimo	huauquentin	hermano (de varón)	w au k e	huauquentin			
+5315		w au q i	666	brother (man's)	Apuri	wawqui	hermano (de varón)	w au q i	wawqui			
+5316		w au q e	666	brother (man's)	Apurimac	wawqe	hermano (de varón)	w au q e	wawqe			
+5317		w au χ i	666	brother (man's)	Arma	wawqui	hermano (de varón)	w au χ i	wawqui			
+5318		w au χ i	666	brother (man's)	Atalla	wawχi	hermano (de varón)	w au χ i	wawχi			
+5319		w au χ e	666	brother (man's)	Ayacucho	wawque	hermano (de varón)	w au χ e	wawque			
+5320		w au k i	666	brother (man's)	Bobonaza	huauqui	hermano (de varón)	w au k i	huauqui			
+5321		w au q i	666	brother (man's)	Cacra-Hongos	wawqui	hermano (de varón)	w au q i	wawqui			
+5322		w au k i	666	brother (man's)	Chachapoyas	wawki	hermano (de varón)	w au k i	wawki			
+5323		w au q i	666	brother (man's)	Chacpar	wawqi	hermano (de varón)	w au q i	wawqi			
+5324		m a s a	5625	brother (man's)	Chetilla	masa	hermano (de varón)	m a s a	masa			
+5325		h i l a	668	brother (man's)	Chipaya	hila	hermano (de varón)	h i l a	hila	aymara		
+5326		w au q i	666	brother (man's)	Curva	wawqi	hermano (de varón)	w au q i	wawqi			
+5327		w ai q i	666	brother (man's)	Cuzco	wayqi	hermano (de varón)	w ai q i	wayqi			
+5328		w au χ i	666	brother (man's)	CuzquenoAntiguo	huauque	hermano (de varón)	w au χ i	huauque			
+5329		w au q i	666	brother (man's)	Huallaga	wawqi	hermano (de varón)	w au q i	wawqi			
+5330		w au ʔ i	666	brother (man's)	Huanca	wawqi	hermano (de varón)	w au ʔ i	wawqi			
+5331		h i l a	668	brother (man's)	Huancane	hila	hermano (de varón)	h i l a	hila			
+5332		w au q i	666	brother (man's)	Huangascar	wawqui	hermano (de varón)	w au q i	wawqui			
+5333		w au q i	666	brother (man's)	HuarazHuailas	wawqi	hermano (de varón)	w au q i	wawqi			
+5334		w au k i	666	brother (man's)	Imbabura	wawki	hermano (de varón)	w au k i	wawki			
+5335		- - u k - n i	720	brother (man's)	Inkawasi	ukni	hermano (de varón)	u k n i	uk(ə)ni			
+5336		tʃ - i ʃ	669	brother (man's)	Iruhito	tšíš	hermano (de varón)	tʃ i ʃ	tšíš			
+5337		q u n ts a	670	brother (man's)	Jaqaru	quntsa	hermano (de varón)	q u n ts a	quntsa			
+5338		q u n ts a	670	brother (man's)	Kawki	quntsa	hermano (de varón)	q u n ts a	quntsa			
+5339		w au k i	666	brother (man's)	Lamas	wawki	hermano (de varón)	w au k i	wawki			
+5340		w au q i	666	brother (man's)	Laraos	wawqi	hermano (de varón)	w au q i	wawqi			
+5341		w au q i	666	brother (man's)	Lincha-Tana	wawqui	hermano (de varón)	w au q i	wawqui			
+5342		ɲ a ɲ a	5669	brother (man's)	Maragua	ñaña	hermano (de varón)	ɲ a ɲ a	ñaña			
+5343		w au k i	666	brother (man's)	Napo	huauqui	hermano (de varón)	w au k i	huauqui			
+5344		w au χ e	666	brother (man's)	Pacaraos	wawqi	hermano (de varón)	w au χ e	wawqi			
+5345		w au k i	666	brother (man's)	Pastaza	wawqui	hermano (de varón)	w au k i	wawqui			
+5346		ɲ a ɲ a	5669	brother (man's)	Pocona	ñaña	hermano (de varón)	ɲ a ɲ a	ñaña			
+5347		h i l a	668	brother (man's)	Puki	hila	hermano (de varón)	h i l a	hila			
+5348		t u r a	716	brother (man's)	Puno	tura	hermano (de varón)	t u r a	tura			
+5349		w au x i	666	brother (man's)	Putumayo	huagqui	hermano (de varón)	w au x i	huagqui			
+5350		w au q i	666	brother (man's)	Raimondi	wawqi	hermano (de varón)	w au q i	wawqi			
+5351		p a n i	5624	sister (man's)	SanPedro	pani	hermano (de varón)	p a n i	pani			
+5352		w au q ɪ	666	brother (man's)	Santiagueno	wawqe	hermano (de varón)	w au q ɪ	wawqe			
+5353		w au q i	666	brother (man's)	SantoTomas	guauqui	hermano (de varón)	w au q i	guauqui			
+5354		w au k i	666	brother (man's)	Serena	wawki	hermano (de varón)	w au k i	wawki			
+5355		h i l a	668	brother (man's)	Sullkatiti	hila	hermano (de varón)	h i l a	hila			
+5356		w ai q i	666	brother (man's)	Taquile	wayqi	hermano (de varón)	w ai q i	wayqi			
+5357		w au χ e	666	brother (man's)	Tarma	wawxi	hermano (de varón)	w au χ e	wawxi			
+5358		w au k i	666	brother (man's)	Troje	wawki	hermano (de varón)	w au k i	wawki			
+5359		ts i s + i	669	brother (man's)	Tsimu	tsís-i	hermano (de varón)	ts i s + i	tsís-i			
+5360		w au q i	666	brother (man's)	Wari	wawqi	hermano (de varón)	w au q i	wawqi			
+5361		ɢ o: - q i	666	brother (man's)	Yanac	ġo:qi	hermano (de varón)	ɢ o: q i	ġo:qi			
+5362		p a n a	5624	brother (woman's)	Anonimo	panantin	hermano (de mujer)	p a n a	panantin			
+5363		t u ɾ i -	716	brother (woman's)	Apuri	turi	hermano (de mujer)	t u ɾ i	turi			
+5364		t o r ai	716	brother (woman's)	Apurimac	toray	hermano (de mujer)	t o r ai	toray			
+5365		t u ɾ i -	716	brother (woman's)	Arma	turi	hermano (de mujer)	t u ɾ i	turi			
+5366		t u r i -	716	brother (woman's)	Atalla	turi	hermano (de mujer)	t u r i	turi			
+5367		t u ɾ i -	716	brother (woman's)	Ayacucho	turi	hermano (de mujer)	t u ɾ i	turi			
+5368		t u r i -	716	brother (woman's)	Bobonaza	turi	hermano (de mujer)	t u r i	turi			
+5369		t u l i -	716	brother (woman's)	Cacra-Hongos	tuli	hermano (de mujer)	t u l i	tuli			
+5370		t u r i -	716	brother (woman's)	Chachapoyas	turi	hermano (de mujer)	t u r i	turi			
+5371		t u r i -	716	brother (woman's)	Chacpar	turi	hermano (de mujer)	t u r i	turi			
+5372		t u r i	716	brother (woman's)	Chetilla	turi	hermano (de mujer)	t u r i	turi		quesada	
+5373		h i l a	668	brother (woman's)	Chipaya	hila	hermano (de mujer)	h i l a	hila	aymara		
+5374		t u r a -	716	brother (woman's)	Curva	tura	hermano (de mujer)	t u r a	tura			
+5375		t u r a -	716	brother (woman's)	Cuzco	tura	hermano (de mujer)	t u r a	tura			
+5376		p a n a - - - -	5624	brother (woman's)	CuzquenoAntiguo	pana	hermano (de mujer)	p a n a	pana			
+5377		t u r i -	716	brother (woman's)	Huallaga	turi	hermano (de mujer)	t u r i	turi			
+5378		t u l i -	716	brother (woman's)	Huanca	tuli	hermano (de mujer)	t u l i	tuli			
+5379		h i l a	668	brother (woman's)	Huancane	hila	hermano (de mujer)	h i l a	hila			
+5380		t u ɾ i -	716	brother (woman's)	Huangascar	turi	hermano (de mujer)	t u ɾ i	turi			
+5381		t u ɾ i -	716	brother (woman's)	HuarazHuailas	turi	hermano (de mujer)	t u ɾ i	turi			
+5382		w au k i	666	brother (woman's)	Imbabura	wawki	hermano (de mujer)	w au k i	wawki			
+5383		u k n i	720	brother (woman's)	Inkawasi	ukni	hermano (de mujer)	u k n i	uk(ə)ni			
+5384		tʃ - i ʃ	669	brother (woman's)	Iruhito	tšíš	hermano (de mujer)	tʃ i ʃ	tšíš			
+5385		- a l u	14	brother (woman's)	Jaqaru	alu	hermano (de mujer)	a l u	alu			
+5386		- a l u	14	brother (woman's)	Kawki	alu	hermano (de mujer)	a l u	alu			
+5387		t u r i -	716	brother (woman's)	Lamas	turi	hermano (de mujer)	t u r i	turi			
+5388		t u r i -	716	brother (woman's)	Laraos	turi	hermano (de mujer)	t u r i	turi			
+5389		t u ɾ i -	716	brother (woman's)	Lincha-Tana	turi	hermano (de mujer)	t u ɾ i	turi			
+5390		ɲ a ɲ a - - - -	5669	brother (woman's)	Maragua	ñaña	hermano (de mujer)	ɲ a ɲ a	ñaña			
+5391		t u r i -	716	brother (woman's)	Napo	turi	hermano (de mujer)	t u r i	turi			
+5392		t u ɾ i -	716	brother (woman's)	Pacaraos	turi	hermano (de mujer)	t u ɾ i	turi			
+5393		t u r i -	716	brother (woman's)	Pastaza	turi	hermano (de mujer)	t u r i	turi			
+5394		ɲ a ɲ a - - - -	5669	brother (woman's)	Pocona	ñaña	hermano (de mujer)	ɲ a ɲ a	ñaña			
+5395		h i l a	668	brother (woman's)	Puki	hila	hermano (de mujer)	h i l a	hila			
+5396		t u r a -	716	brother (woman's)	Puno	tura	hermano (de mujer)	t u r a	tura			
+5397		t u r i -	716	brother (woman's)	Putumayo	turi	hermano (de mujer)	t u r i	turi			
+5398		t u ɾ i -	716	brother (woman's)	Raimondi	turi	hermano (de mujer)	t u ɾ i	turi			
+5399		ɲ a ɲ a - - - -	5669	sister (woman's)	SanPedro	ñaña	hermano (de mujer)	ɲ a ɲ a	ñaña			
+5400		t u ɾ a -	716	brother (woman's)	Santiagueno	tura	hermano (de mujer)	t u ɾ a	tura			
+5401		t o r a -	716	brother (woman's)	SantoTomas	tora	hermano (de mujer)	t o r a	tora, tori			
+5402		t o r i -	716	brother (woman's)	SantoTomas	tori	hermano (de mujer)	t o r i	tora, tori			
+5403		t u r i -	716	brother (woman's)	Serena	turi	hermano (de mujer)	t u r i	turi			
+5404		h i l a	668	brother (woman's)	Sullkatiti	hila	hermano (de mujer)	h i l a	hila			
+5405		t u r a -	716	brother (woman's)	Taquile	tura	hermano (de mujer)	t u r a	tura			
+5406		t u ɾ i -	716	brother (woman's)	Tarma	turi	hermano (de mujer)	t u ɾ i	turi			
+5407		t u r i -	716	brother (woman's)	Troje	turi	hermano (de mujer)	t u r i	turi			
+5408		ts i s + i	669	brother (woman's)	Tsimu	tsís-i	hermano (de mujer)	ts i s + i	tsís-i			
+5409		t u ɾ i -	716	brother (woman's)	Wari	turi	hermano (de mujer)	t u ɾ i	turi			
+5410		t u r i -	716	brother (woman's)	Yanac	turi	hermano (de mujer)	t u r i	turi			
+5411		t u r a	716	sister (man's)	Anonimo	turantin	hermana (de varón)	t u r a	turantin			
+5412		p a n i	5624	sister (man's)	Apuri	pani	hermana (de varón)	p a n i	pani			
+5413		p a n a	5624	sister (man's)	Apurimac	pana	hermana (de varón)	p a n a	pana			
+5414		p a n i	5624	sister (man's)	Arma	pani	hermana (de varón)	p a n i	pani			
+5415		p a n i	5624	sister (man's)	Atalla	pani	hermana (de varón)	p a n i	pani			
+5416		p a n i	5624	sister (man's)	Ayacucho	pani	hermana (de varón)	p a n i	pani			
+5417		p a n i	5624	sister (man's)	Bobonaza	pani	hermana (de varón)	p a n i	pani			
+5418		p a n i	5624	sister (man's)	Cacra-Hongos	pani	hermana (de varón)	p a n i	pani			
+5419		p a n i	5624	sister (man's)	Chachapoyas	pani	hermana (de varón)	p a n i	pani			
+5420		p a n i	5624	sister (man's)	Chacpar	pani	hermana (de varón)	p a n i	pani			
+5421		p a n i	5624	sister (man's)	Chetilla	pani	hermana (de varón)	p a n i	pani		quesada	
+5422		k u ʎ a k a	5626	sister (man's)	Chipaya	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka	aymara		
+5423		p a n a	5624	sister (man's)	Curva	pana	hermana (de varón)	p a n a	pana			
+5424		p a n a	5624	sister (man's)	Cuzco	pana	hermana (de varón)	p a n a	pana			
+5425		t u r a - - - -	716	sister (man's)	CuzquenoAntiguo	tura	hermana (de varón)	t u r a	tura			
+5426		p a ɲ i	5624	sister (man's)	Huallaga	pañi	hermana (de varón)	p a ɲ i	pañi			
+5427		p a n i	5624	sister (man's)	Huanca	pani	hermana (de varón)	p a n i	pani			
+5428		k u ʎ a k a	5626	sister (man's)	Huancane	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka			
+5429		p a n i	5624	sister (man's)	Huangascar	pani	hermana (de varón)	p a n i	pani			
+5430		p a ɲ i	5624	sister (man's)	HuarazHuailas	pani	hermana (de varón)	p a ɲ i	pani			
+5431		ɲ a ɲ a	5669	sister (man's)	Imbabura	ñaña	hermana (de varón)	ɲ a ɲ a	ñaña			
+5432		u k n i	5627	sister (man's)	Inkawasi	ukni	hermana (de varón)	u k n i	uk(ə)ni			
+5433		tʃ i n k i	5628	sister (man's)	Jaqaru	činki	hermana (de varón)	tʃ i n k i	činki			
+5434		tʃ i n k i	5628	sister (man's)	Kawki	činki	hermana (de varón)	tʃ i n k i	činki			
+5435		p a n i	5624	sister (man's)	Lamas	pani	hermana (de varón)	p a n i	pani			
+5436		p a n i	5624	sister (man's)	Laraos	pani	hermana (de varón)	p a n i	pani			
+5437		p a n i	5624	sister (man's)	Lincha-Tana	pani	hermana (de varón)	p a n i	pani			
+5438		ɲ a ɲ a	5669	sister (man's)	Maragua	ñaña	hermana (de varón)	ɲ a ɲ a	ñaña			
+5439		p a n i	5624	sister (man's)	Napo	pani	hermana (de varón)	p a n i	pani			
+5440		p a n i	5624	sister (man's)	Pacaraos	pani	hermana (de varón)	p a n i	pani			
+5441		p a n i	5624	sister (man's)	Pastaza	pani	hermana (de varón)	p a n i	pani			
+5442		ɲ a ɲ a	5669	sister (man's)	Pocona	ñaña	hermana (de varón)	ɲ a ɲ a	ñaña			
+5443		k u ʎ a k a	5626	sister (man's)	Puki	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka			
+5444		p a n a	5624	sister (man's)	Puno	pana	hermana (de varón)	p a n a	pana			
+5445		p a n i	5624	sister (man's)	Putumayo	pani	hermana (de varón)	p a n i	pani			
+5446		w au q e	666	brother (man's)	SanPedro	wawqi	hermana (de varón)	w au q e	wawqi		brother?	
+5447		p a n a	5624	sister (man's)	Santiagueno	pana	hermana (de varón)	p a n a	pana			
+5448		p a n a	5624	sister (man's)	SantoTomas	pana	hermana (de varón)	p a n a	pana		hermana cualquiera	
+5449		p a ɲ i	5624	sister (man's)	Serena	pañi	hermana (de varón)	p a ɲ i	pañi			
+5450		k u ʎ a k a	5626	sister (man's)	Sullkatiti	kuλaka	hermana (de varón)	k u ʎ a k a	kuλaka			
+5451		p a n a	5624	sister (man's)	Taquile	pana	hermana (de varón)	p a n a	pana			
+5452		p a n i	5624	sister (man's)	Tarma	pani	hermana (de varón)	p a n i	pani			
+5453		p a n i	5624	sister (man's)	Troje	pani	hermana (de varón)	p a n i	pani			
+5454		p a ɲ i	5624	sister (man's)	Wari	pani	hermana (de varón)	p a ɲ i	pani			
+5455		p a n i	5624	sister (man's)	Yanac	pani	hermana (de varón)	p a n i	pani			
+5456		ɲ a ɲ a	5669	sister (woman's)	Anonimo	ñañantin	hermana (de mujer)	ɲ a ɲ a	ñañantin			
+5457		ɲ a ɲ a - - - -	5669	sister (woman's)	Apuri	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5458		ɲ a ɲ a - - - -	5669	sister (woman's)	Apurimac	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5459		ɲ a ɲ a - - - -	5669	sister (woman's)	Arma	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5460		ɲ a ɲ a - - - -	5669	sister (woman's)	Atalla	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5461		ɲ a ɲ a - - - -	5669	sister (woman's)	Ayacucho	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5462		ɲ a ɲ a - - - -	5669	sister (woman's)	Bobonaza	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5463		ɲ a ɲ a - - - -	5669	sister (woman's)	Cacra-Hongos	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5464		ɲ a ɲ a - - - -	5669	sister (woman's)	Chachapoyas	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5465		ɲ a ɲ a - - - -	5669	sister (woman's)	Chacpar	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5466		m a s a	5625	sister (woman's)	Chetilla	masa	hermana (de mujer)	m a s a	masa			
+5467		k u ʎ a k a	5626	sister (woman's)	Chipaya	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka	aymara		
+5468		ɲ a ɲ a - - - -	5669	sister (woman's)	Curva	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5469		ɲ a ɲ a - - - -	5669	sister (woman's)	Cuzco	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5470		ɲ a ɲ a - - - -	5669	sister (woman's)	CuzquenoAntiguo	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5471		ɲ a ɲ a - - - -	5669	sister (woman's)	Huallaga	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5472		ɲ a ɲ a - - - -	5669	sister (woman's)	Huanca	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña 			
+5473		k u ʎ a k a	5626	sister (woman's)	Huancane	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka			
+5474		ɲ a ɲ a - - - -	5669	sister (woman's)	Huangascar	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5475		ɳ a ɳ a - - - -	5669	sister (woman's)	HuarazHuailas	ñaña	hermana (de mujer)	ɳ a ɳ a	ñaña			
+5476		ɲ a ɲ a - - - -	5669	sister (woman's)	Imbabura	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5477		u k n i	5627	sister (woman's)	Inkawasi	ukni	hermana (de mujer)	u k n i	uk(ə)ni			
+5478		tʃ i n k i	5628	sister (woman's)	Jaqaru	činki	hermana (de mujer)	tʃ i n k i	činki			
+5479		tʃ i n k i	5628	sister (woman's)	Kawki	činki	hermana (de mujer)	tʃ i n k i	činki			
+5480		ɲ a ɲ a - - - -	5669	sister (woman's)	Lamas	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5481		ɲ a ɲ a - - - -	5669	sister (woman's)	Laraos	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5482		ɲ u ɲ u - - - -	5669	sister (woman's)	Lincha-Tana	ñuñu	hermana (de mujer)	ɲ u ɲ u	ñuñu			
+5483		ɲ a ɲ a - - - -	5669	sister (woman's)	Maragua	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5484		ɲ a ɲ a - - - -	5669	sister (woman's)	Napo	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5485		ɲ a ɲ a - - - -	5669	sister (woman's)	Pacaraos	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5486		ɲ a ɲ a - - - -	5669	sister (woman's)	Pastaza	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5487		ɲ a ɲ a - - - -	5669	sister (woman's)	Pocona	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5488		k u ʎ a k a	5626	sister (woman's)	Puki	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka			
+5489		ɲ a ɲ a - - - -	5669	sister (woman's)	Puno	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5490		ɲ a ɲ a - - - -	5669	sister (woman's)	Putumayo	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5491		t u ɾ i	716	brother (woman's)	SanPedro	turi	hermana (de mujer)	t u ɾ i	turi		turi is brother	
+5492		ɲ a ɲ a - - - -	5669	sister (woman's)	Santiagueno	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5493		ɲ a ɲ a - - - -	5669	sister (woman's)	SantoTomas	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5494		ɲ a ɲ a - - - -	5669	sister (woman's)	Serena	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5495		k u ʎ a k a	5626	sister (woman's)	Sullkatiti	kuλaka	hermana (de mujer)	k u ʎ a k a	kuλaka			
+5496		ɲ a ɲ a - - - -	5669	sister (woman's)	Taquile	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5497		n a n a - - - -	5669	sister (woman's)	Tarma	nana	hermana (de mujer)	n a n a	nana			
+5498		ɲ a ɲ a - - - -	5669	sister (woman's)	Troje	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+5499		ɳ a ɳ a - - - -	5669	sister (woman's)	Wari	ñaña	hermana (de mujer)	ɳ a ɳ a	ñaña			
+5500		ɲ a ɲ a - - - -	5669	sister (woman's)	Yanac	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
 5501		- - - k ɔ s a	3216	husband	Anonimo	coça	esposo	k ɔ s a	coça			
 5503		- - - q a ɾ i	3842	husband	Apuri	qari	esposo	q a ɾ i	qari			
 5504		- - - q o s a	3216	husband	Apuri	qusa	esposo	q o s a	qusa			
@@ -7318,10 +7318,10 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 7467			3842	man SW adult, male	Azuay	cari	varón, hombre	k a ɾ i	cari			
 7468			7661	woman	Azuay	huarmi	mujer	w a ɾ m i	huarmi			
 7469			4269	name	Azuay	shuti	nombre	ʃ u t i	shuti			
-7470		w au k i	666	brother (of man)	Azuay	huauqui	hermano (de varón)	w au k i	huauqui			
-7471			716	brother (of woman)	Azuay	turi	hermano (de mujer)	t u ɾ i	turi			
-7472			5624	sister (of man)	Azuay	pani	hermana (de varón)	p a n i	pani			
-7473			5669	sister (of woman)	Azuay	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
+7470		w au k i	666	brother (man's)	Azuay	huauqui	hermano (de varón)	w au k i	huauqui			
+7471			716	brother (woman's)	Azuay	turi	hermano (de mujer)	t u ɾ i	turi			
+7472			5624	sister (man's)	Azuay	pani	hermana (de varón)	p a n i	pani			
+7473			5669	sister (woman's)	Azuay	ñaña	hermana (de mujer)	ɲ a ɲ a	ñaña			
 7474			3216	husband	Azuay	cusa	esposo	k u s a	cusa			
 7475			998	day	Azuay	punzha	día	p u n ʒ a	punzha			
 7476			4463	night	Azuay	tuta	noche	t u t a	tuta			
@@ -7436,8 +7436,8 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 7589		t u ʎ u	468	bone	Jauja	tullu	hueso	t u ʎ u	tullu			
 7590		tʃ a p l a	517	branch	Jauja	chapla	rama	tʃ a p l a	chapla			
 7591		t a n t a	558	bread	Jauja	tanta	pan	t a n t a	tanta			
-7592		w au ʔ i	666	brother (of man)	Jauja	wawqi	hermano (de varón)	w au ʔ i	wawqi			
-7593		t u l i	716	brother (of woman)	Jauja	tuli	hermano (de mujer)	t u l i	tuli			
+7592		w au ʔ i	666	brother (man's)	Jauja	wawqi	hermano (de varón)	w au ʔ i	wawqi			
+7593		t u l i	716	brother (woman's)	Jauja	tuli	hermano (de mujer)	t u l i	tuli			
 7594		p u k u t ai	8	cloud	Jauja	pukutay	nube	p u k u t ai	pukutay			
 7595		a l a l a ʔ	823	cold	Jauja	alalaq	fría	a l a l a ʔ	alalaq			
 7596		ai w a + m u	161	come, to	Jauja	aywamuy	venir	ai w a + m u	aywamuy			
@@ -7460,7 +7460,7 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 7614		n i n a	1887	fire	Jauja	nina		n i n a	nina			
 7615		p i tʃ ʔ a	1936	five	Jauja	pichqa		p i tʃ ʔ a	pichqa			
 7616		s i s a	1987	flower	Jauja	sisa		s i s a	sisa			
-7617		w a it a	1989	flower	Jauja	wayta		w a it a	wayta			
+7617		w ai t a	1989	flower	Jauja	wayta		w ai t a	wayta			
 7618		p aː + l i + j	118	fly, to	Jauja	paaliy		p aː + l i + j	paaliy			
 7619		ʈʂ a k i	70	foot	Jauja	traki		ʈʂ a k i	traki			
 7620		u l k u	2162	forehead	Jauja	ulku		u l k u	ulku			
@@ -7513,8 +7513,8 @@ ID	ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	FORM	SPANISH	TOKENS	VALUE	BORROWING	NOTE
 7667		w a s k a	5180	rope	Jauja	waska		w a s k a	waska			
 7668		k a ʈʂ i	5237	salt	Jauja	katri		k a ʈʂ i	katri			
 7669		l i k a + j	5335	see, to	Jauja	likay		l i k a + j	likay			
-7670		p a n i	5624	sister (of man)	Jauja	pani		p a n i	pani			
-7671		ɲ a ɲ a	5669	sister (of woman)	Jauja	ñaña 		ɲ a ɲ a	ñaña 			
+7670		p a n i	5624	sister (man's)	Jauja	pani		p a n i	pani			
+7671		ɲ a ɲ a	5669	sister (woman's)	Jauja	ñaña 		ɲ a ɲ a	ñaña 			
 7672		s u ʔ t a	5767	six	Jauja	suqta		s u ʔ t a	suqta			
 7673		p u ɲ u	5866	sleep, to	Jauja	puñuy		p u ɲ u	puñuy			
 7674		t a k ʂ a	89	small	Jauja	taksha		t a k ʂ a	taksha			

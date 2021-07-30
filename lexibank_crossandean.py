@@ -25,8 +25,7 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "crossandean"
     language_class = CustomLanguage
-    # lexeme_class = CustomLexeme
-    # concept_class = CustomConcept
+
     form_spec = FormSpec(
         separators=',',
         )
@@ -45,7 +44,6 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         args.writer.add_sources()
 
-
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
@@ -58,21 +56,8 @@ class Dataset(BaseDataset):
 
             concepts[concept.english] = idx
 
-        #concepts = {}
-        #for i, concept in enumerate(self.concepts):
-        #    idx = str(i+1)+"_"+slug(concept["ENGLISH"])
-        #    args.writer.add_concept(
-        #        ID=idx,
-        #        Name=concept["ENGLISH"],
-        #        Concepticon_ID=concept["CONCEPTICON_ID"],
-        #        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
-        #    )
-        #    concepts[concept["ENGLISH"]] = idx
-
-        
         sources = {}
-        #for language in self.languages:
-        #    sources[language["ID"]] = language["Sources"].split(", ")
+
         languages = args.writer.add_languages(lookup_factory='ID')
 
         errors = set()
@@ -87,7 +72,6 @@ class Dataset(BaseDataset):
                 errors.add(("concept", concept))
             elif tokens:
                 lexeme = args.writer.add_form_with_segments(
-                    # Parameter_ID=concepts[concept],
                     Parameter_ID = concepts[concept],
                     Language_ID=language,
                     Value=value.strip() or form.strip(),
