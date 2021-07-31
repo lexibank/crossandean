@@ -59,13 +59,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 58_manswadultmale,"man SW adult, male",1554,MAN
 59_woman,woman,962,WOMAN
 60_name,name,1405,NAME
-61_brotherofman,brother (of man) ,559,BROTHER (OF MAN)
-62_brotherofwoman,brother (of woman) ,560,BROTHER (OF WOMAN)
-63_sisterofman,sister (of man),561,SISTER (OF MAN)
-64_sisterofwoman,sister (of woman),562,SISTER (OF WOMAN)
-67_night,night,1233,NIGHT
+61_brothermans,brother (man's),559,BROTHER (OF MAN)
+62_brotherwomans,brother (woman's),560,BROTHER (OF WOMAN)
+63_sistermans,sister (man's),561,SISTER (OF MAN)
+64_sisterwomans,sister (woman's),562,SISTER (OF WOMAN)
 65_husband,husband,1200,HUSBAND
 66_day,day,1225,DAY (NOT NIGHT)
+67_night,night,1233,NIGHT
 68_sun,sun,1343,SUN
 69_moon,moon,1313,MOON
 70_star,star,1430,STAR
