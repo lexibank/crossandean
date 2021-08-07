@@ -17,7 +17,7 @@ Conceptlists in Concepticon:
 - [Heggarty-2005-150](https://concepticon.clld.org/contributions/Heggarty-2005-150)
 ## Notes
 
-This dataset features a 150-items concept list (concepticon link [here](https://concepticon.clld.org/contributions/Heggarty-2005-150)) for languages of three andean families, Quechua, Aymara and Uru-Chipaya. In the current version, the dataset features 40 Quechua varieties, three of those from colonial times, five Aymara languages and three languages of the Uru-Chipaya family. The data is collected from a variety of published sources as well as a couple of individual contributions. All forms have been converted to IPA and segmentated to enable further processing for both traditional and computational research. Even so, the phonological data is to be taken with caution, as no own fieldwork was involved and the phonological information varies hugely from source to source. We greatly appreciate any improvement on gaps in our dataset as well as additional phonological information.
+This dataset features a 150-items concept list (concepticon link [here](https://concepticon.clld.org/contributions/Heggarty-2005-150)) for languages of three andean families, Quechua, Aymara and Uru-Chipaya. In the current version, the dataset features 42 Quechua varieties, three of those from colonial times, five Aymara languages and three languages of the Uru-Chipaya family. The data is collected from a variety of published sources as well as a couple of individual contributions. All forms have been converted to IPA and segmentated to enable further processing for both traditional and computational research. Even so, the phonological data is to be taken with caution, as no own fieldwork was involved and the phonological information varies hugely from source to source. We greatly appreciate any improvement on gaps in our dataset as well as additional phonological information.
 
 Furthermore, this dataset is part of a research project which searches to re-evaluate the internal classification of Quechua and will first be presented at a talk during the REELA conference in September.
 
@@ -38,9 +38,9 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 - **Sources:** 0
 - **Synonymy:** 1.06
 - **Invalid lexemes:** 0
-- **Tokens:** 34,441
-- **Segments:** 93 (0 BIPA errors, 0 CTLS sound class errors, 93 CLTS modified)
-- **Inventory size (avg):** 32.28
+- **Tokens:** 34,129
+- **Segments:** 95 (0 BIPA errors, 0 CTLS sound class errors, 94 CLTS modified)
+- **Inventory size (avg):** 32.68
 
 ## Possible Improvements:
 
