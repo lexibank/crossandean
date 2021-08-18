@@ -26,13 +26,24 @@ for k, vals in source2lang.items():
 wl = fetch("crossandean", to_lingpy=True,
     columns=["ALIGNMENT", "COGIDS", "CONCEPT",
                         "DOCULECT", "FORM", 
-                        "SPANISH", "TOKENS", "VALUE", "BORROWING", "NOTE",
+                        "SPANISH", "TOKENS", "VALUE", "MORPHEMES", "BORROWING", "NOTE",
                         "SOURCE", "SUBGROUP"]
         )
 count = 0
 for idx, language, form in wl.iter_rows("doculect", "value"):
     if (language, form) in sla:
         wl[idx, "source"] = sla[language, form]
+
+    elif language == 'Jauja':
+        wl[idx, "source"] = 'cerron1976'
+    elif language == 'Huanca':
+        wl[idx, "source"] = 'cerron1976'
+    elif language == 'Tsimu':
+        wl[idx, "source"] = 'cerron2016'
+    elif language == 'Iruhito':
+        wl[idx, "source"] = 'cerron2016'
+    elif language == 'Azuay':
+        wl[idx, "source"] = 'cordero1955'
     else:
         count += 1
 
