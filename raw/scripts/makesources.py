@@ -7,7 +7,7 @@ data = {}
 source2lang = defaultdict(set)
 out = []
 sla = {}
-with UnicodeDictReader("crossandean.csv", delimiter=",") as reader:
+with UnicodeDictReader("crossandean_original_raw.csv", delimiter=",") as reader:
     for i, row in enumerate(reader):
         data[i+1] = row
         source2lang[row["LANGUAGE"]].add(row["SOURCE"])
@@ -24,10 +24,10 @@ for k, vals in source2lang.items():
 
 
 wl = fetch("crossandean", to_lingpy=True,
-    columns=["ID", "ALIGNMENT", "COGIDS", "CONCEPT",
+    columns=["ALIGNMENT", "COGIDS", "CONCEPT",
                         "DOCULECT", "FORM", 
                         "SPANISH", "TOKENS", "VALUE", "BORROWING", "NOTE",
-                        "SOURCE"]
+                        "SOURCE", "SUBGROUP"]
         )
 count = 0
 for idx, language, form in wl.iter_rows("doculect", "value"):
@@ -42,3 +42,4 @@ lex = LexiBase(wl)
 lex.db = "crossandean-new.sqlite3"
 lex.create("crossandean")
 
+lex.output('tsv', filename="dummy", ignore="all")
