@@ -1,5 +1,7 @@
 # CLDF dataset derived from Blum et al.'s "Una aproximación filolingüística a la clasificación interna del Quechua" from 2021
 
+[![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -26,6 +28,7 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 74%](https://img.shields.io/badge/Glottolog-74%25-yellow.svg "Glottolog: 74%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -37,6 +40,8 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 - **Lexemes:** 7,556
 - **Sources:** 26
 - **Synonymy:** 1.06
+- **Cognacy:** 7,614 cognates in 808 cognate sets (266 singletons)
+- **Cognate Diversity:** 0.09
 - **Invalid lexemes:** 0
 - **Tokens:** 34,131
 - **Segments:** 95 (0 BIPA errors, 0 CTLS sound class errors, 94 CLTS modified)
