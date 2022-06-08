@@ -15,6 +15,6 @@ with open("crossandean.tsv", "w",
 #lex = LexStat(wl, segments='tokens', check=True)
 
 # tried with all of wl/lex/tsv-file
-alm = Alignments("crossandean.tsv", ref='COGIDS') 
+alm = Alignments("crossandean.tsv", ref = 'COGIDS', transcription = "FORM") 
 
 #alm.align()
