@@ -37,15 +37,15 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 
 - **Varieties:** 50
 - **Concepts:** 150
-- **Lexemes:** 7,556
-- **Sources:** 26
-- **Synonymy:** 1.06
-- **Cognacy:** 7,614 cognates in 808 cognate sets (266 singletons)
-- **Cognate Diversity:** 0.09
+- **Lexemes:** 7,523
+- **Sources:** 28
+- **Synonymy:** 1.05
+- **Cognacy:** 8,081 cognates in 866 cognate sets (266 singletons)
+- **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 34,131
-- **Segments:** 95 (0 BIPA errors, 0 CTLS sound class errors, 94 CLTS modified)
-- **Inventory size (avg):** 32.68
+- **Tokens:** 33,791
+- **Segments:** 99 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
+- **Inventory size (avg):** 32.86
 
 # Contributors
 
@@ -53,7 +53,7 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Frederic Blum | @Tarotis | maintainer | Author
 Carlos B. Ugarte | @MuffinLinwist | maintainer | Author
-Adriano Ingunza | @BadBatched | maintainer | Author 
+Adriano Ingunza | @BadBatched | maintainer | Author
 Zoe Poirier | @zrpm | maintainer | Author
 Mattis List | @LinguList | maintainer | Other
 

@@ -34,11 +34,11 @@ class Dataset(pylexibank.Dataset):
                 fetch(
                     "crossandean",
                     columns=[
-                        "ID",
                         "ALIGNMENT",
                         "COGIDS",
                         "CONCEPT",
                         "DOCULECT",
+                        "SUBGROUP",
                         "FORM",
                         "SPANISH",
                         "TOKENS",
