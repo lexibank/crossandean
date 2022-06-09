@@ -29,15 +29,23 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 
 
 [![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Glottolog: 74%](https://img.shields.io/badge/Glottolog-74%25-yellow.svg "Glottolog: 74%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 0
-- **Concepts:** 0
-- **Lexemes:** 0
-- **Sources:** 0
-- **Synonymy:** 0.00
+- **Varieties:** 50
+- **Concepts:** 150
+- **Lexemes:** 7,523
+- **Sources:** 28
+- **Synonymy:** 1.05
+- **Cognacy:** 8,081 cognates in 866 cognate sets (266 singletons)
+- **Cognate Diversity:** 0.10
+- **Invalid lexemes:** 0
+- **Tokens:** 33,791
+- **Segments:** 99 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
+- **Inventory size (avg):** 32.86
 
 # Contributors
 
