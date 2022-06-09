@@ -54,7 +54,7 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
 
         concepts = {}
-        for concept in self.conceptlists[0].concepts.values():
+        for concept in self.concepts: #conceptlists[0].concepts.values():
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
