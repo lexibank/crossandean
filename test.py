@@ -16,4 +16,4 @@ def test_languages(cldf_dataset):
 
 
 def test_cognates(cldf_dataset):
-    assert len(list(cldf_dataset["CognateTable"])) == 8081
+    assert len(list(cldf_dataset["CognateTable"])) == 7523
