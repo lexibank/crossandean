@@ -19,7 +19,7 @@ def run(args):
             "segments",
             "language_subgroup",
             "borrowing",
-            "cogid_cognateset_id"
+            "cognacy"
             ),
         # a list of tuples of source and target
         namespace=(
@@ -27,7 +27,7 @@ def run(args):
             ("parameter_id", "concept"),
             ("segments", "tokens"),
             ("language_subgroup", "subgroup"),
-            ("cogid_cognateset_id", "cogids")
+            ("cognacy", "cogid")
             )
         )
 
@@ -73,11 +73,21 @@ def run(args):
             D[idx] = [wl[idx, c] for c in D[0]]
 
     wlnew = Wordlist(D)
+    etd = wlnew.get_etymdict(ref="cogid")
+    args.log.info("Created wordlist with {0} languages, {1} concepts, and {2} cognatesets".format(
+        wlnew.width, wlnew.height, len(etd)))
 
     # Word-parameterised nexus
     write_nexus(
             wlnew,
-            ref="cogids",
+            ref="cogid",
             mode="BEASTWORDS",
-            filename='./outputs/crossandean_beast.nex'
+            filename=str(ds.dir.joinpath('outputs', 'crossandean-beast.nex'))
             )
+    args.log.info("wrote data to file 'outputs/crossandean-beast.nex'") 
+    wlnew.output(
+            "tsv", 
+            filename=str(ds.dir.joinpath("outputs", "crossandean-cognates")),
+            prettify=False,
+            ignore="all")
+    args.log.info("wrote wordlist data to file")
