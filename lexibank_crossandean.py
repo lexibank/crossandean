@@ -10,6 +10,7 @@ from pyedictor import fetch
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
     Borrowing = attr.ib(default=None)
+    Partial_Cognacy = attr.ib(default=None)
 
 
 @attr.s
@@ -44,6 +45,7 @@ class Dataset(pylexibank.Dataset):
                         "TOKENS",
                         "VALUE",
                         "BORROWING",
+                        "MORPHEMES",
                         "NOTE",
                         "SOURCE",
                     ],
@@ -69,6 +71,19 @@ class Dataset(pylexibank.Dataset):
 
         errors = set()
         wl = Wordlist(str(self.raw_dir.joinpath("crossandean.tsv")))
+        # add new cognate identifiers filtered
+        N = {}
+        for idx, cogids, morphemes in wl.iter_rows("cogids", "morphemes"):
+            new_cogids = []
+            if morphemes:
+                for cogid, morpheme in zip(cogids, morphemes):
+                    if not morpheme.startswith("_"):
+                        new_cogids += [cogid]
+            else:
+                new_cogids = [c for c in cogids if c]
+            N[idx] = " ".join([str(x) for x in new_cogids])
+        wl.add_entries("cog", N, lambda x: x)
+        wl.renumber("cog") # creates numeric cogid
 
         for (
             idx,
@@ -80,6 +95,7 @@ class Dataset(pylexibank.Dataset):
             comment,
             source,
             borrowing,
+            cogid,
             cogids,
         ) in pylexibank.progressbar(
             wl.iter_rows(
@@ -91,6 +107,7 @@ class Dataset(pylexibank.Dataset):
                 "note",
                 "source",
                 "borrowing",
+                "cogid",
                 "cogids",
             ),
             desc="cldfify",
@@ -107,12 +124,13 @@ class Dataset(pylexibank.Dataset):
                     Form=form.strip(),
                     Segments=tokens,
                     Source=source,
+                    Cognacy=cogid,
+                    Partial_Cognacy=" ".join([str(x) for x in cogids]),
                     Borrowing=borrowing,
                     Comment=comment,
                 )
 
-                this_cogid = "".join([str(x) for x in cogids if x])
-                args.writer.add_cognate(lexeme=lexeme, Cognateset_ID=this_cogid, Source=source)
+                args.writer.add_cognate(lexeme=lexeme, Cognateset_ID=cogid, Source=source)
 
         for typ, error in sorted(errors):
             print(typ + ": " + error)
