@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-16-gfab1331",
+            "dc:created": "v1.0-17-g5821fe0",
             "dc:title": "Repository"
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7618,
+            "dc:extent": 7523,
             "tableSchema": {
                 "columns": [
                     {

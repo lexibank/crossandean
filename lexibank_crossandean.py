@@ -111,11 +111,8 @@ class Dataset(pylexibank.Dataset):
                     Comment=comment,
                 )
 
-                for cogid in cogids:
-                    if cogid != 0:
-                        args.writer.add_cognate(lexeme=lexeme, Cognateset_ID=cogid, Source=source)
-                # this_cogid = "-".join([str(x) for x in cogids if x]):
-                #     args.writer.add_cognate(lexeme=lexeme, Cognateset_ID=this_cogid, Source=source)
+                this_cogid = "".join([str(x) for x in cogids if x])
+                args.writer.add_cognate(lexeme=lexeme, Cognateset_ID=this_cogid, Source=source)
 
         for typ, error in sorted(errors):
             print(typ + ": " + error)
