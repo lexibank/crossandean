@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "beeb6d8",
+            "dc:created": "v1.0-16-gfab1331",
             "dc:title": "Repository"
         },
         {
@@ -32,9 +32,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-26-gb12a7df",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -269,7 +269,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 8081,
+            "dc:extent": 7618,
             "tableSchema": {
                 "columns": [
                     {
