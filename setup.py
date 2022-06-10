@@ -14,7 +14,13 @@ setup(
     py_modules=["lexibank_crossandean"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["blumquechua=lexibank_crossandean:Dataset"]},
+    entry_points={
+        "lexibank.dataset": ["blumquechua=lexibank_crossandean:Dataset",],
+        'cldfbench.commands': ['crossandean=crossandeancommands',],
+    },
     install_requires=["pylexibank>=3.0"],
-    extras_require={"test": ["pytest-cldf"]},
+    extras_require={
+        "test": ["pytest-cldf"],
+        #'commands': []
+        },
 )
