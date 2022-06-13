@@ -413,7 +413,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 429	w a l a ʂ	7942	young (male)	Huanca	Quechua	walash	joven (varón)	w a l a ʂ	walash				cerron1976
 430	w ai n a	119	young (male)	Huancane	Aymara	wayna	joven (varón)	w ai n a	wayna				heggarty2005
 431	m a q t a	162	young (male)	Huangascar	Quechua	maqta	joven (varón)	m a q t a	maqta				shimelman2017
-432	x a t u n + w a m b ɾ a	207 91	young (male)	Imbabura	Quechua	jatun wambra	joven (varón)	x a t u n + w a m b ɾ a	jatun wambra				gomez2009
+432	x a t u n + w a m b ɾ a	0 91	young (male)	Imbabura	Quechua	jatun wambra	joven (varón)	x a t u n + w a m b ɾ a	jatun wambra				gomez2009
 433	m a l t u n	15	young (male)	Inkawasi	Quechua	maltu.n	joven (varón)	m a l t u n	maltu.n				heggarty2005
 434	m u s u	121	young (male)	Jaqaru	Aymara	musu	joven (varón)	m u s u	musu	esp			heggarty2005
 435	m u s u	121	young (male)	Kawki	Aymara	musu	joven (varón)	m u s u	musu	esp			heggarty2005
@@ -7227,7 +7227,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 7462	ɾ u r u	205	egg	Azuay	Quechua	rurru	huevo	ɾ u r u	rurru				cordero1955
 7463	g a tʃ u	3167	horn	Azuay	Quechua	gachu	cuerno	g a tʃ u	gachu	esp			cordero1955
 7464	tʃ u p a	6554	tail	Azuay	Quechua	chupa	cola, rabo	tʃ u p a	chupa				cordero1955
-7466	ʃ u g + ɾ u n a	4783 3892	man SW person	Azuay	Quechua	shug runa	persona, ser humano	ʃ u g + ɾ u n a	shug runa				cordero1955
+7466	ʃ u g + ɾ u n a	0 3892	man SW person	Azuay	Quechua	shug runa	persona, ser humano	ʃ u g + ɾ u n a	shug runa				cordero1955
 7467	k a ɾ i	3842	man SW adult, male	Azuay	Quechua	cari	varón, hombre	k a ɾ i	cari				cordero1955
 7468	w a ɾ m i	7661	woman	Azuay	Quechua	huarmi	mujer	w a ɾ m i	huarmi				cordero1955
 7469	ʃ u t ( - ) i	4269	name	Azuay	Quechua	shuti	nombre	ʃ u t i	shuti				cordero1955

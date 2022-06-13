@@ -40,7 +40,7 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 - **Lexemes:** 7,523
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 7,523 cognates in 869 cognate sets (277 singletons)
+- **Cognacy:** 7,523 cognates in 867 cognate sets (275 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
 - **Tokens:** 33,791
