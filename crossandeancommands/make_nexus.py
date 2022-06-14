@@ -4,7 +4,6 @@ Create a nexus file from the most recent data on Edictor.
 from lingpy import Wordlist
 from lingpy.convert.strings import write_nexus
 from lexibank_crossandean import Dataset as CA
-from pathlib import Path
 
 
 def run(args):
@@ -15,7 +14,7 @@ def run(args):
         # columns to be loaded from CLDF set
         columns=(
             "language_id",
-            "parameter_id",
+            "concept_name",
             "segments",
             "language_subgroup",
             "borrowing",
@@ -24,7 +23,7 @@ def run(args):
         # a list of tuples of source and target
         namespace=(
             ("language_id", "doculect"),
-            ("parameter_id", "concept"),
+            ("concept_name", "concept"),
             ("segments", "tokens"),
             ("language_subgroup", "subgroup"),
             ("cognacy", "cogid")
@@ -39,16 +38,16 @@ def run(args):
             }
 
     blacklist_concepts = {
-            'star',
-            'green',
             'with',
             'small',
             'lip',
             'wing',
-            'breast',
-            'suck,to',
+            'branch',
             'husband',
-            'branch'
+            'leg',
+            'egg',
+            'breast',
+            'suck, to',
             }
 
     blacklist_subgroups = {
@@ -82,11 +81,11 @@ def run(args):
             wlnew,
             ref="cogid",
             mode="BEASTWORDS",
-            filename=str(ds.dir.joinpath('outputs', 'crossandean-beast.nex'))
+            filename=str(ds.dir.joinpath('outputs', 'crossandean-beast_150.nex'))
             )
-    args.log.info("wrote data to file 'outputs/crossandean-beast.nex'") 
+    args.log.info("wrote data to file 'outputs/crossandean-beast.nex'")
     wlnew.output(
-            "tsv", 
+            "tsv",
             filename=str(ds.dir.joinpath("outputs", "crossandean-cognates")),
             prettify=False,
             ignore="all")

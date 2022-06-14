@@ -32,20 +32,14 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 ![Glottolog: 74%](https://img.shields.io/badge/Glottolog-74%25-yellow.svg "Glottolog: 74%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 50
 - **Concepts:** 150
 - **Lexemes:** 7,523
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 7,523 cognates in 867 cognate sets (275 singletons)
+- **Cognacy:** 7,523 cognates in 871 cognate sets (278 singletons)
 - **Cognate Diversity:** 0.10
-- **Invalid lexemes:** 0
-- **Tokens:** 33,791
-- **Segments:** 99 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
-- **Inventory size (avg):** 32.86
 
 # Contributors
 

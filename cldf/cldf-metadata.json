@@ -16,25 +16,25 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-23-g53870cb",
+            "dc:created": "v1.0-24-ge8ae6d5",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6-3-gb0ce72b220",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v2.6.0-1-g303e5ec3",
             "dc:title": "Concepticon"
         },
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.2.0-9-gdd25ef6",
             "dc:title": "CLTS"
         }
     ],
