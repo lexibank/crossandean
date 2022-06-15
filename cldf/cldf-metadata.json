@@ -16,25 +16,25 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "beeb6d8",
+            "dc:created": "v1.0-25-g9ee85d8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6-3-gb0ce72b220",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v2.6.0-1-g303e5ec3",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0-26-gb12a7df",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -133,6 +133,10 @@
                     {
                         "datatype": "string",
                         "name": "Borrowing"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Partial_Cognacy"
                     }
                 ],
                 "foreignKeys": [
@@ -269,7 +273,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 8081,
+            "dc:extent": 7523,
             "tableSchema": {
                 "columns": [
                     {

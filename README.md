@@ -40,12 +40,12 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 - **Lexemes:** 7,523
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 8,081 cognates in 866 cognate sets (266 singletons)
+- **Cognacy:** 7,523 cognates in 871 cognate sets (278 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 33,791
+- **Tokens:** 33,795
 - **Segments:** 99 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
-- **Inventory size (avg):** 32.86
+- **Inventory size (avg):** 32.88
 
 # Contributors
 
