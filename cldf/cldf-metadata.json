@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-24-ge8ae6d5",
+            "dc:created": "v1.0-25-g9ee85d8",
             "dc:title": "Repository"
         },
         {
@@ -34,7 +34,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0-9-gdd25ef6",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
