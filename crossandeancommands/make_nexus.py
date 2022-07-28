@@ -39,15 +39,19 @@ def run(args):
 
     blacklist_concepts = {
             'with',
-            'small',
             'lip',
             'wing',
             'branch',
             'husband',
             'leg',
-            'egg',
             'breast',
-            'suck, to',
+			'high up',
+			'grass', #tarma: weed, useless pants 501
+			'see, to', # retention of both qawa and riku in our data
+			'seed', # many varieties with multiple terms, various colexifications
+			'four', # one with, one without?
+			'rain', # both para and tamya in Anonimo
+			'bite, to', # Tarma: chew for kachu, kani as bite
             }
 
     blacklist_subgroups = {
@@ -80,13 +84,13 @@ def run(args):
     write_nexus(
             wlnew,
             ref="cogid",
-            mode="BEASTWORDS",
-            filename=str(ds.dir.joinpath('outputs', 'crossandean-beast_150.nex'))
+            mode="BEAST",
+            filename=str(ds.dir.joinpath('outputs', 'quechua_modern.nex'))
             )
     args.log.info("wrote data to file 'outputs/crossandean-beast.nex'")
     wlnew.output(
             "tsv",
-            filename=str(ds.dir.joinpath("outputs", "crossandean-cognates")),
+            filename=str(ds.dir.joinpath("outputs", "quechua_modern_wordlist")),
             prettify=False,
             ignore="all")
     args.log.info("wrote wordlist data to file")

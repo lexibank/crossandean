@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-25-g9ee85d8",
+            "dc:created": "v1.0-27-ge62c079",
             "dc:title": "Repository"
         },
         {
@@ -34,7 +34,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.2.0-9-gdd25ef6",
             "dc:title": "CLTS"
         }
     ],
@@ -60,7 +60,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7523,
+            "dc:extent": 7519,
             "tableSchema": {
                 "columns": [
                     {
@@ -273,7 +273,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7523,
+            "dc:extent": 7519,
             "tableSchema": {
                 "columns": [
                     {
