@@ -44,8 +44,8 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
 - **Tokens:** 33,758
-- **Segments:** 93 (0 BIPA errors, 0 CTLS sound class errors, 92 CLTS modified)
-- **Inventory size (avg):** 32.58
+- **Segments:** 88 (0 BIPA errors, 0 CTLS sound class errors, 88 CLTS modified)
+- **Inventory size (avg):** 32.50
 
 # Contributors
 
