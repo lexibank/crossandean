@@ -1499,7 +1499,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 1570	k u k u	5720	sit, to	Pacaraos	Quechua	kuka-raa	estar sentado	k u k u	kuku-, chapa-ku, tayku				adelaar1982
 1571	tʃ a p a	173	sit, to	Pacaraos	Quechua	chapa-ku	estar sentado	tʃ a p a	kuku-, chapa-ku, tayku				adelaar1982
 1572	t ai ( - - ) - - + k u	354 0	sit, to	Pacaraos	Quechua	tayku	estar sentado	t ai + k u	kuku-, chapa-ku, tayku				adelaar1982
-1573	t i j/r a + r/j i + n a	5715 0 0	sit, to	Pastaza	Quechua	tirayina	estar sentado	t i j/r a + r/j i + n a	tirayina			typo? tiyarina probably	landerman1973
+1573	t i j a + r i + n a	5715 0 0	sit, to	Pastaza	Quechua	tirayina	estar sentado	t i j a + r i + n a	tirayina				landerman1973
 1574	t i j a	5715	sit, to	Pocona	Quechua	tiya.	estar sentado	t i j a	tiya.				heggarty2005
 1575	tʃ u k u	174	sit, to	Puki	Aymara	čuku.	estar sentado	tʃ u k u	čuku.				heggarty2005
 1576	t i j a	5715	sit, to	Puno	Quechua	tiya.	estar sentado	t i j a	tiya.				heggarty2005
@@ -3632,7 +3632,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3772	m a k i	2670	hand	Yanac	Quechua	maki	mano	m a k i	maki				heggarty2005
 3773	k u tʃ u tʃ	1509	elbow	Anonimo	Quechua	cuchuch	codo	k u tʃ u tʃ	cuchuch				valera1586
 3774	k u ʈ u ʃ	1509	elbow	Apuri	Quechua	kutrush	codo	k u ʈ u ʃ	kutrush				shimelman2017
-3775	k u tʃ/k u tʃ u	382	elbow	Apurimac	Quechua	kukuchi	codo	k u tʃ/k u tʃ u	kukuchi			ts/k alternate	camacho2007
+3775	k u k u tʃ u	382	elbow	Apurimac	Quechua	kukuchi	codo	k u k u tʃ u	kukuchi				camacho2007
 3777	k u tʃ u s	1509	elbow	Arma	Quechua	kuchus	codo	k u tʃ u s	kuchus				galvez2003
 3778	k u tʃ u s	1509	elbow	Atalla	Quechua	kuču.s	codo	k u tʃ u s	kuču.s				heggarty2005
 3779	k u tʃ u s	1509	elbow	Ayacucho	Quechua	kuchus	codo	k u tʃ u s	kuchus				soto1976
@@ -3643,7 +3643,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3784	k u k u ʈʂ i	383	elbow	Chetilla	Quechua	kuku.ĉi	codo	k u k u ʈʂ i	kuku.ĉi				heggarty2005
 3785	kʰ u ts -	307	elbow	Chipaya	Uru-Chipaya	khuts	codo	kʰ u ts	khuts(a)				heggarty2005
 3786	m u χ ʎ i	74	elbow	Curva	Quechua	muχλi	codo	m u χ ʎ i	muχλi				heggarty2005
-3787	k u tʃ/k u tʃ u	382	elbow	Cuzco	Quechua	kuku.ču	codo	k u tʃ/k u tʃ u	kuku.ču			ts/k alternate	heggarty2005
+3787	k u k u tʃ u	382	elbow	Cuzco	Quechua	kuku.ču	codo	k u k u tʃ u	kuku.ču				heggarty2005
 3788	k u tʃ u tʃ	1509	elbow	CuzquenoAntiguo	Quechua	cuchuch	codo	k u tʃ u tʃ	cuchuch				holguin1608
 3789	k u k u ʃ	384	elbow	Huallaga	Quechua	kuku.š	codo	k u k u ʃ	kuku.š				heggarty2005
 3790	k u ʈʂ u ʂ	1509	elbow	Huanca	Quechua	kutrush	codo	k u ʈʂ u ʂ	kutrush				cerron1976

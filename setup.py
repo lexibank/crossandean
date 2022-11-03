@@ -1,5 +1,5 @@
-from setuptools import setup
 import json
+from setuptools import setup
 
 
 with open('metadata.json', encoding='utf-8') as fp:
@@ -15,12 +15,12 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={
-        "lexibank.dataset": ["blumquechua=lexibank_crossandean:Dataset",],
-        'cldfbench.commands': ['crossandean=crossandeancommands',],
+        "lexibank.dataset": ["blumquechua=lexibank_crossandean:Dataset"],
+        "cldfbench.commands": ["crossandean=crossandeancommands"],
     },
     install_requires=["pylexibank>=3.0"],
     extras_require={
         "test": ["pytest-cldf"],
-        #'commands': []
+        # 'commands': []
         },
 )
