@@ -29,7 +29,7 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 
 
 [![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 74%](https://img.shields.io/badge/Glottolog-74%25-yellow.svg "Glottolog: 74%")
+![Glottolog: 77%](https://img.shields.io/badge/Glottolog-77%25-yellow.svg "Glottolog: 77%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -37,15 +37,15 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 
 - **Varieties:** 50
 - **Concepts:** 150
-- **Lexemes:** 7,523
+- **Lexemes:** 7,520
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 7,523 cognates in 871 cognate sets (278 singletons)
+- **Cognacy:** 7,520 cognates in 875 cognate sets (278 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 33,795
-- **Segments:** 99 (0 BIPA errors, 0 CTLS sound class errors, 98 CLTS modified)
-- **Inventory size (avg):** 32.88
+- **Tokens:** 33,758
+- **Segments:** 85 (0 BIPA errors, 0 CLTS sound class errors, 85 CLTS modified)
+- **Inventory size (avg):** 32.42
 
 # Contributors
 

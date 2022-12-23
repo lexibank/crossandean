@@ -83,7 +83,7 @@ class Dataset(pylexibank.Dataset):
                 new_cogids = [c for c in cogids if c]
             N[idx] = " ".join([str(x) for x in new_cogids])
         wl.add_entries("cog", N, lambda x: x)
-        wl.renumber("cog") # creates numeric cogid
+        wl.renumber("cog")  # creates numeric cogid
 
         for (
             idx,
