@@ -1,9 +1,8 @@
 from pathlib import Path
-
 import attr
-import pylexibank
 from clldutils.misc import slug
 from lingpy import Wordlist
+import pylexibank
 from pyedictor import fetch
 
 
@@ -130,7 +129,11 @@ class Dataset(pylexibank.Dataset):
                     Comment=comment,
                 )
 
-                args.writer.add_cognate(lexeme=lexeme, Cognateset_ID=cogid, Source=source)
+                args.writer.add_cognate(
+                    lexeme=lexeme,
+                    Cognateset_ID=cogid,
+                    Source=source
+                    )
 
         for typ, error in sorted(errors):
             print(typ + ": " + error)

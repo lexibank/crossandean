@@ -1,7 +1,5 @@
 # CLDF dataset derived from Blum et al.'s "Una aproximación filolingüística a la clasificación interna del Quechua" from 2021
 
-[![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -28,7 +26,6 @@ Furthermore, this dataset is part of a research project which searches to re-eva
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 77%](https://img.shields.io/badge/Glottolog-77%25-yellow.svg "Glottolog: 77%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
