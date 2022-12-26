@@ -1,10 +1,10 @@
-# CLDF dataset derived from Blum et al.'s "Una aproximación filolingüística a la clasificación interna del Quechua" from 2021
+# CLDF dataset derived from Blum et al.'s "A phylolinguistic classification of the Quechua language family" from 2023
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Forthcoming. Una aproximación filolingüística a la clasificación interna del Quechua. Talk to be presented at Red Europea para los Estudios Andinos, Tübingen.
+  > Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Accepted. A phylolinguistic classification of the Quechua language family. _Indiana_.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -19,7 +19,7 @@ Conceptlists in Concepticon:
 
 This dataset features a 150-items concept list (concepticon link [here](https://concepticon.clld.org/contributions/Heggarty-2005-150)) for languages of three andean families, Quechua, Aymara and Uru-Chipaya. In the current version, the dataset features 42 Quechua varieties, three of those from colonial times, five Aymara languages and three languages of the Uru-Chipaya family. The data is collected from a variety of published sources as well as a couple of individual contributions. All forms have been converted to IPA and segmentated to enable further processing for both traditional and computational research. Even so, the phonological data is to be taken with caution, as no own fieldwork was involved and the phonological information varies hugely from source to source. We greatly appreciate any improvement on gaps in our dataset as well as additional phonological information.
 
-Furthermore, this dataset is part of a research project which searches to re-evaluate the internal classification of Quechua and will first be presented at a talk during the REELA conference in September.
+Furthermore, this dataset is part of a research project which searches to re-evaluate the internal classification of Quechua and was first presented at a talk during the RE(E)LA conference in September 2021. The paper is accepted to be published in _Indiana_ mid-2023.
 
 
 

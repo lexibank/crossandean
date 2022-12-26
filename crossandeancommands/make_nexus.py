@@ -37,23 +37,6 @@ def run(args):
             'SantoTomas',
             }
 
-    blacklist_concepts = {
-            'with',
-            'lip',
-            'wing',
-            'branch',
-            'husband',
-            'leg',
-            'breast',
-            'high up',
-            'grass',    # tarma: weed, useless pants 501
-            'see, to',  # retention of both qawa and riku in our data
-            'seed',     # many colexifications
-            'four',     # one with, one without?
-            'rain',     # both para and tamya in Anonimo
-            'bite, to',     # Tarma: chew for kachu, kani as bite
-            }
-
     blacklist_subgroups = {
             'Aymara',
             'Uru-Chipaya'
@@ -70,7 +53,6 @@ def run(args):
         if (
             wordlist[idx, "subgroup"] not in blacklist_subgroups and
             wordlist[idx, "doculect"] not in blacklist_languages and
-            # wordlist[idx, "concept"] not in blacklist_concepts and
             wordlist[idx, "borrowing"] not in blacklist_borrowings
         ):
             D[idx] = [wordlist[idx, c] for c in D[0]]

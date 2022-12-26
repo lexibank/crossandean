@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Forthcoming. Una aproximaci\u00f3n filoling\u00fc\u00edstica a la clasificaci\u00f3n interna del Quechua. Talk to be presented at Red Europea para los Estudios Andinos, T\u00fcbingen.",
+    "dc:bibliographicCitation": "Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Accepted. A phylolinguistic classification of the Quechua language family. _Indiana_.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Heggarty-2005-150"
@@ -10,13 +10,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Blum et al.'s \"Una aproximaci\u00f3n filoling\u00fc\u00edstica a la clasificaci\u00f3n interna del Quechua\" from 2021",
+    "dc:title": "CLDF dataset derived from Blum et al.'s \"A phylolinguistic classification of the Quechua language family\" from 2023",
     "dcat:accessURL": "https://github.com/lexibank/crossandean",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-38-g44c3e5e",
+            "dc:created": "v1.0-39-g6c1f948",
             "dc:title": "Repository"
         },
         {
