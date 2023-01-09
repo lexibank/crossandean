@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Accepted. A phylolinguistic classification of the Quechua language family. _Indiana_.",
+    "dc:bibliographicCitation": "Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. Accepted. A phylolinguistic classification of the Quechua language family. _Indiana_. DOI: 10.31235/osf.io/twu6a",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Heggarty-2005-150"
@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-39-g6c1f948",
+            "dc:created": "v1.0-40-g91151d3",
             "dc:title": "Repository"
         },
         {
