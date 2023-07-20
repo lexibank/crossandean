@@ -31,7 +31,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. 2023. A phylolinguistic classification of the Quechua language family. Open Science Framework. DOI: 10.31235/osf.io/twu6a</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Blum, Frederic, Carlos Barrientos, Adriano Ingunza &amp; Zoe Poirier. 2023. A phylolinguistic classification of the Quechua language family. INDIANA - Anthropological Studies on Latin America and the Caribbean 40(1). 29\u2013-54. DOI: https://doi.org/10.18441/IND.V40I1.29-54.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

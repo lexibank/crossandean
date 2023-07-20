@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Blum, Frederic and Barrientos Ugarte, Carlos and Poirier, Zoe and Ingunza, Adriano. 2023. A phylolinguistic classification of the Quechua language family. Open Science Framework. DOI: 10.31235/osf.io/twu6a
+  > Blum, Frederic, Carlos Barrientos, Adriano Ingunza & Zoe Poirier. 2023. A phylolinguistic classification of the Quechua language family. INDIANA - Anthropological Studies on Latin America and the Caribbean 40(1). 29–-54. DOI: https://doi.org/10.18441/IND.V40I1.29-54.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -29,20 +29,20 @@ Furthermore, this dataset is part of an ongoing research project which searches 
 ![Glottolog: 77%](https://img.shields.io/badge/Glottolog-77%25-yellow.svg "Glottolog: 77%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 95%](https://img.shields.io/badge/BIPA-95%25-green.svg "BIPA: 95%")
+![CLTS SoundClass: 95%](https://img.shields.io/badge/CLTS%20SoundClass-95%25-green.svg "CLTS SoundClass: 95%")
 
 - **Varieties:** 50
 - **Concepts:** 150
-- **Lexemes:** 7,520
+- **Lexemes:** 7,519
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 7,520 cognates in 875 cognate sets (278 singletons)
-- **Cognate Diversity:** 0.10
+- **Cognacy:** 7,519 cognates in 1,030 cognate sets (472 singletons)
+- **Cognate Diversity:** 0.12
 - **Invalid lexemes:** 0
-- **Tokens:** 33,758
-- **Segments:** 85 (0 BIPA errors, 0 CLTS sound class errors, 85 CLTS modified)
-- **Inventory size (avg):** 32.42
+- **Tokens:** 33,421
+- **Segments:** 92 (5 BIPA errors, 5 CLTS sound class errors, 87 CLTS modified)
+- **Inventory size (avg):** 34.80
 
 # Contributors
 
