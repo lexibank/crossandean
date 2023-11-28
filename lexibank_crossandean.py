@@ -134,7 +134,7 @@ class Dataset(pylexibank.Dataset):
                     Form=form.strip(),
                     Segments=unmerge(tokens),
                     GroupedSounds=tokens,
-                    Alignment=alignment,
+                    Alignment=" ".join(alignment),
                     Source=source,
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
