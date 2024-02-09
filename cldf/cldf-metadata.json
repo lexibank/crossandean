@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-44-ga413ea8",
+            "dc:created": "v1.1-5-gcb8c860",
             "dc:title": "Repository"
         },
         {
@@ -134,6 +134,10 @@
                     {
                         "datatype": "string",
                         "name": "Partial_Cognacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Alignment"
                     },
                     {
                         "datatype": "string",
