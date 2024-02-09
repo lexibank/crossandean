@@ -29,30 +29,30 @@ Furthermore, this dataset is part of an ongoing research project which searches 
 ![Glottolog: 77%](https://img.shields.io/badge/Glottolog-77%25-yellow.svg "Glottolog: 77%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 95%](https://img.shields.io/badge/BIPA-95%25-green.svg "BIPA: 95%")
-![CLTS SoundClass: 95%](https://img.shields.io/badge/CLTS%20SoundClass-95%25-green.svg "CLTS SoundClass: 95%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 50
 - **Concepts:** 150
 - **Lexemes:** 7,519
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 7,519 cognates in 1,030 cognate sets (472 singletons)
+- **Cognacy:** 7,519 cognates in 1,034 cognate sets (476 singletons)
 - **Cognate Diversity:** 0.12
 - **Invalid lexemes:** 0
-- **Tokens:** 33,421
-- **Segments:** 92 (5 BIPA errors, 5 CLTS sound class errors, 87 CLTS modified)
-- **Inventory size (avg):** 34.80
+- **Tokens:** 33,729
+- **Segments:** 89 (0 BIPA errors, 0 CLTS sound class errors, 89 CLTS modified)
+- **Inventory size (avg):** 32.68
 
 # Contributors
 
-Name | GitHub user | Description | Role
---- | --- | --- | ---
-Frederic Blum | @Tarotis | maintainer | Author
-Carlos B. Ugarte | @MuffinLinwist | maintainer | Author
-Adriano Ingunza | @BadBatched | maintainer | Author
-Zoe Poirier | @zrpm | maintainer | Author
-Mattis List | @LinguList | maintainer | Other
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Frederic Blum | @FredericBlum | maintainer | Author |
+Carlos B. Ugarte | @MuffinLinwist | maintainer | Author |
+Adriano Ingunza | @BadBatched | maintainer | Author |
+Zoe Poirier | @zrpm | maintainer | Author |
+Mattis List | @LinguList | maintainer | Other |
 
 
 

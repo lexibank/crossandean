@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-43-gc91ef49",
+            "dc:created": "v1.0-44-ga413ea8",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.4"
+            "dc:description": "3.11.7"
         },
         {
             "dc:title": "python-packages",
@@ -134,6 +134,10 @@
                     {
                         "datatype": "string",
                         "name": "Partial_Cognacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GroupedSounds"
                     }
                 ],
                 "foreignKeys": [

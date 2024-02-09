@@ -6,10 +6,18 @@ import pylexibank
 from pyedictor import fetch
 
 
+def unmerge(sequence):
+    out = []
+    for tok in sequence:
+        out += tok.split('.')
+    return out
+
+
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
     Borrowing = attr.ib(default=None)
     Partial_Cognacy = attr.ib(default=None)
+    GroupedSounds = attr.ib(default=None)
 
 
 @attr.s
@@ -27,7 +35,7 @@ class Dataset(pylexibank.Dataset):
 
     form_spec = pylexibank.FormSpec(separators=",")
 
-    def cmd_download(self, args):
+    def cmd_download(self):
         print("updating ...")
         with open(self.raw_dir.joinpath("crossandean.tsv"), "w", encoding="utf-8") as f:
             f.write(
@@ -121,7 +129,8 @@ class Dataset(pylexibank.Dataset):
                     Language_ID=language,
                     Value=value.strip() or form.strip(),
                     Form=form.strip(),
-                    Segments=tokens,
+                    Segments=unmerge(tokens),
+                    GroupedSounds=tokens,
                     Source=source,
                     Cognacy=cogid,
                     Partial_Cognacy=" ".join([str(x) for x in cogids]),
