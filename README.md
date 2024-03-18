@@ -26,7 +26,7 @@ Furthermore, this dataset is part of an ongoing research project which searches 
 ## Statistics
 
 
-![Glottolog: 77%](https://img.shields.io/badge/Glottolog-77%25-yellow.svg "Glottolog: 77%")
+![Glottolog: 78%](https://img.shields.io/badge/Glottolog-78%25-yellow.svg "Glottolog: 78%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
