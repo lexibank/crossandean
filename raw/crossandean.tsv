@@ -160,7 +160,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 162	k i ʎ u	82	yellow	Imbabura	Quechua	killu	amarillo	k i ʎ u	killu				gomez2009
 163	χ a r w a -	7817	yellow	Inkawasi	Quechua	χarwa	amarillo	χ a r w a	χarwa				heggarty2005
 164	kʼ e l j u	443	yellow	Iruhito	Uru-Chipaya	k’élyu	amarillo	kʼ e l j u	k’élyu	quechua			cerron2016
-165	t j u j u	7820	yellow	Jaqaru	Aymara	tyuyu	amarillo	t j u j u	tyuyu				heggarty2005
+165	tʲ u j u	7820	yellow	Jaqaru	Aymara	tyuyu	amarillo	tʲ u j u	tyuyu				heggarty2005
 166	q a r w a -	108	yellow	Kawki	Aymara	qarwa	amarillo	q a r w a	qar.wa				heggarty2005
 167	k i dʑ u	82	yellow	Lamas	Quechua	killu	amarillo	k i dʑ u	killu				taylor2006
 168	q a r w a ʃ	7817	yellow	Laraos	Quechua	qarwa.š	amarillo	q a r w a ʃ	qarwa.š				heggarty2005
@@ -321,9 +321,9 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 331	- u tʃ i + ʎ a	389 0	small	Imbabura	Quechua	uchilla	pequeño	u tʃ i + ʎ a	uchilla				gomez2009
 332	t a k ʃ a	89	small	Inkawasi	Quechua	takša	pequeño	t a k ʃ a	takša				heggarty2005
 333	- uː tʃ oː - ( ɲ i )	112	small	Iruhito	Uru-Chipaya	u:tšó:ñi	pequeño	uː tʃ oː ɲ i	u:tšó:ñi				cerron2016
-334	u - t j i t j a	87	small	Jaqaru	Aymara	utyitya	pequeño	u t j i t j a	utyitya, uxtyitya				heggarty2005
-335	u x t j i t j a	87	small	Jaqaru	Aymara	uxtyitya	pequeño	u x t j i t j a	utyitya, uxtyitya				heggarty2005
-336	i - t j i t j a	87	small	Kawki	Aymara	ityitya	pequeño	i t j i t j a	ityitya				heggarty2005
+334	u ( - ) tʲ i tʲ a	87	small	Jaqaru	Aymara	utyitya	pequeño	u tʲ i tʲ a	utyitya, uxtyitya				heggarty2005
+335	u ( x ) tʲ i tʲ a	87	small	Jaqaru	Aymara	uxtyitya	pequeño	u x tʲ i tʲ a	utyitya, uxtyitya				heggarty2005
+336	i ( - ) tʲ i tʲ a	87	small	Kawki	Aymara	ityitya	pequeño	i tʲ i tʲ a	ityitya				heggarty2005
 337	t a k ʃ a	89	small	Lamas	Quechua	taksha	pequeño	t a k ʃ a	taksha				taylor2006
 338	- u tʃ ui	389	small	Laraos	Quechua	učuy	pequeño	u tʃ ui	učuy				heggarty2005
 339	t a k s a	89	small	Lincha-Tana	Quechua	taksa	pequeño	t a k s a	taksa				shimelman2017
@@ -597,7 +597,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 617	w a t a	7768	year	Imbabura	Quechua	wata	año	w a t a	wata				gomez2009
 618	a ɲ o	7770	year	Inkawasi	Quechua	año	año	a ɲ o	año	esp			heggarty2005
 619	w a t - a	441	year	Jaqaru	Aymara	wata	año	w a t a	wata	quechua			heggarty2005
-620	w a t j a	442	year	Kawki	Aymara	watya	año	w a t j a	watya	quechua			heggarty2005
+620	w a tʲ a	442	year	Kawki	Aymara	watya	año	w a tʲ a	watya	quechua			heggarty2005
 621	w a t a	7768	year	Lamas	Quechua	wata	año	w a t a	wata				taylor2006
 622	w a t a	7768	year	Laraos	Quechua	wata	año	w a t a	wata, watə				heggarty2005
 623	w a t ə	7768	year	Laraos	Quechua	watə	año	w a t ə	wata, watə				heggarty2005
@@ -696,8 +696,8 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 725	a tʃ ( - ) k a	3940	many	HuarazHuailas	Quechua	atska	mucho(s)!!!, harto	a tʃ k a	atska				parkerchavez1976
 726	a tʃ ( - ) k a	3940	many	Imbabura	Quechua	achka	mucho(s)!!!, harto	a tʃ k a	achka				gomez2009
 727	a tʃ ( - ) k a	3940	many	Inkawasi	Quechua	ačka	mucho(s)!!!, harto	a tʃ k a	ačka				heggarty2005
-728	a ʈʂ h i	113	many	Jaqaru	Aymara	aĉhi	mucho(s)!!!, harto	a ʈʂ h i	aĉhi				heggarty2005
-729	a ʈʂ - i	113	many	Kawki	Aymara	aĉi	mucho(s)!!!, harto	a ʈʂ i	aĉi				heggarty2005
+728	a ʈʂʰ i	113	many	Jaqaru	Aymara	aĉhi	mucho(s)!!!, harto	a ʈʂʰ i	aĉhi				heggarty2005
+729	a ʈʂ i	113	many	Kawki	Aymara	aĉi	mucho(s)!!!, harto	a ʈʂ i	aĉi				heggarty2005
 731	a tʃ ( - ) k a	3940	many	Lamas	Quechua	achka	mucho(s)!!!, harto	a tʃ k a	sukaman, achka				park1976
 732	a tʃ ( - ) k a	3940	many	Laraos	Quechua	ačka	mucho(s)!!!, harto	a tʃ k a	ačka				heggarty2005
 733	a tʃ ( - ) k a	3940	many	Lincha-Tana	Quechua	achka	mucho(s)!!!, harto	a tʃ k a	achka				shimelman2017
@@ -860,7 +860,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 908	s a m p a - -	138	light (not heavy)	Ayacucho	Quechua	sampa	liviano, ligero (que pesa poco)	s a m p a	sampa				soto1976
 909	p a n g a + ʎ a	3636 0	light (not heavy)	Bobonaza	Quechua	pangalla	liviano, ligero (que pesa poco)	p a n g a + ʎ a	pangalla				orrwrisley1981
 910	a n k a ʃ	133	light (not heavy)	Chacpar	Quechua	ankaš	liviano, ligero (que pesa poco)	a n k a ʃ	ankaš				heggarty2005
-911	kʰ e z h i	3641	light (not heavy)	Chipaya	Uru-Chipaya	khezhi	liviano, ligero (que pesa poco)	kʰ e z h i	khezhi				heggarty2005
+911	kʰ e zʰ i	3641	light (not heavy)	Chipaya	Uru-Chipaya	khezhi	liviano, ligero (que pesa poco)	kʰ e zʰ i	khezhi				heggarty2005
 912	s u x a	134	light (not heavy)	Curva	Quechua	suxa	liviano, ligero (que pesa poco)	s u x a	suxa				heggarty2005
 913	tʃʰ a ʎ a	3637	light (not heavy)	Cuzco	Quechua	čhaλa	liviano, ligero (que pesa poco)	tʃʰ a ʎ a	čhaλa				heggarty2005
 914	w ai r ai	349	light (not heavy)	CuzquenoAntiguo	Quechua	huayray	liviano, ligero (que pesa poco)	w ai r ai	huayray, huaman				holguin1608
@@ -900,7 +900,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 951	k a r u	1735	far (away)	Chachapoyas	Quechua	karu	lejos	k a r u	karu				taylor2006
 952	k a r u	1735	far (away)	Chacpar	Quechua	karu	lejos	k a r u	karu				heggarty2005
 953	k a r u	1735	far (away)	Chetilla	Quechua	karu	lejos	k a r u	karu				heggarty2005
-954	a z h k i n	1736	far (away)	Chipaya	Uru-Chipaya	azhkin	lejos	a z h k i n	azhkin(a); nakhu				heggarty2005
+954	a zʰ k i ( n )	1736	far (away)	Chipaya	Uru-Chipaya	azhkin	lejos	a zʰ k i n	azhkin(a); nakhu				heggarty2005
 955	n a kʰ u	1739	far (away)	Chipaya	Uru-Chipaya	nakhu	lejos	n a kʰ u	azhkin(a); nakhu				heggarty2005
 956	k a r u	1735	far (away)	Curva	Quechua	karu	lejos	k a r u	karu				heggarty2005
 957	k a r u	1735	far (away)	Cuzco	Quechua	karu	lejos	k a r u	karu				heggarty2005
@@ -912,7 +912,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 963	k a ɾ u	1735	far (away)	HuarazHuailas	Quechua	karu	lejos	k a ɾ u	karu				parkerchavez1976
 964	k a ɾ u	1735	far (away)	Imbabura	Quechua	karu	lejos	k a ɾ u	karu				gomez2009
 965	k a r u	1735	far (away)	Inkawasi	Quechua	karu	lejos	k a r u	karu				heggarty2005
-966	a s - k - -	1736	far (away)	Iruhito	Uru-Chipaya	ask	lejos	a s k	ask				cerron2016
+966	a s k - ( - )	1736	far (away)	Iruhito	Uru-Chipaya	ask	lejos	a s k	ask				cerron2016
 967	h a j a	1737	far (away)	Jaqaru	Aymara	haya	lejos	h a j a	haya				heggarty2005
 968	h a j a	1737	far (away)	Kawki	Aymara	haya	lejos	h a j a	haya				heggarty2005
 969	k a r u	1735	far (away)	Lamas	Quechua	karu	lejos	k a r u	karu				taylor2006
@@ -936,7 +936,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 987	k a r u	1735	far (away)	Taquile	Quechua	karu	lejos	k a r u	karu				heggarty2005
 988	k a ɾ u	1735	far (away)	Tarma	Quechua	karu	lejos	k a ɾ u	karu				adelaar1977
 989	k a r u	1735	far (away)	Troje	Quechua	karu	lejos	k a r u	karu				heggarty2005
-990	a s - k i s	1736	far (away)	Tsimu	Uru-Chipaya	áskis	lejos	a s k i s	áskis				cerron2016
+990	a s k i ( s )	1736	far (away)	Tsimu	Uru-Chipaya	áskis	lejos	a s k i s	áskis				cerron2016
 991	k a ɾ u	1735	far (away)	Wari	Quechua	karu	lejos	k a ɾ u	karu				parkerchavez1976
 992	l a r g u	1738	far (away)	Yanac	Quechua	largu	lejos	l a r g u	largu	esp			heggarty2005
 993	r u p a k	7180	warm / hot SW	Anonimo	Quechua	rupac	caliente	r u p a k	rupac, coñi pacha			cosa al fuego o sol, caliente lugar	valera1586
@@ -1100,7 +1100,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 1156	a dʑ i -	4987	right (hand side)	Chachapoyas	Quechua	alli	derecha (mano)	a dʑ i	alli				taylor2006
 1157	d e r e tʃ a	104	right (hand side)	Chacpar	Quechua	dereča	derecha (mano)	d e r e tʃ a	dereča	esp			heggarty2005
 1158	a dʒ i n	4987	right (hand side)	Chetilla	Quechua	adžin	derecha (mano)	a dʒ i n	adžin				heggarty2005
-1159	z h e w a	4991	right (hand side)	Chipaya	Uru-Chipaya	zhewa	derecha (mano)	z h e w a	zhewa				heggarty2005
+1159	zʰ e w a	4991	right (hand side)	Chipaya	Uru-Chipaya	zhewa	derecha (mano)	zʰ e w a	zhewa				heggarty2005
 1160	p a ɲ a	4986	right (hand side)	Curva	Quechua	paña	derecha (mano)	p a ɲ a	paña				heggarty2005
 1161	p a ɲ a	4986	right (hand side)	Cuzco	Quechua	paña	derecha (mano)	p a ɲ a	paña				heggarty2005
 1162	p a ɲ a	4986	right (hand side)	CuzquenoAntiguo	Quechua	paña	derecha (mano)	p a ɲ a	paña				holguin1608
@@ -1428,7 +1428,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 1499	ʃ a.j.a	6159	stand, to	Chachapoyas	Quechua	shaya	estar en pie	ʃ a.j.a	shaya				taylor2006
 1500	ʃ eː	6159	stand, to	Chacpar	Quechua	še:.	estar en pie	ʃ eː	še:.				heggarty2005
 1501	ʃ a.j.a	6159	stand, to	Chetilla	Quechua	ša.ya.	estar en pie	ʃ a.j.a	ša.ya.				heggarty2005
-1502	z h a a z	6161	stand, to	Chipaya	Uru-Chipaya	zhaa-z	estar en pie	z h a a z	zhaa-z				heggarty2005
+1502	zʰ a a z	6161	stand, to	Chipaya	Uru-Chipaya	zhaa-z	estar en pie	zʰ a a z	zhaa-z				heggarty2005
 1503	ʃ a.j.a	6159	stand, to	Curva	Quechua	sa.ya.	estar en pie	ʃ a.j.a	sa.ya.				heggarty2005
 1504	ʃ a.j.a	6159	stand, to	Cuzco	Quechua	sa.ya.	estar en pie	ʃ a.j.a	sa.ya.				heggarty2005
 1505	ʃ a.j.a + k u + n i	6159 0 0	stand, to	CuzquenoAntiguo	Quechua	sayacuni	estar en pie	ʃ a.j.a + k u + n i	sayacuni				holguin1608
@@ -1515,7 +1515,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 1587	- a m a	5716	sit, to	Yanac	Quechua	ama.	estar sentado	a m a	ama.				heggarty2005
 1588	w ai t a + n i	6515 0	swim, to	Anonimo	Quechua	huaytani	nadar	w ai t a + n i	huaytani				valera1586
 1589	s a m b u + ʎ a	285 0	swim, to	Atalla	Quechua	sambu.λa.	nadar	s a m b u + ʎ a	sambu.λa.				heggarty2005
-1590	n a d j a	354	swim, to	Ayacucho	Quechua	nadya	nadar	n a d j a	nadya	esp			soto1976
+1590	n a dʲ a	472	swim, to	Ayacucho	Quechua	nadya	nadar	n a dʲ a	nadya	esp			soto1976
 1591	w ai t a + n a	6515 0	swim, to	Bobonaza	Quechua	huaitana	nadar	w ai t a + n a	huaitana				orrwrisley1981
 1592	w ai t a	6515	swim, to	Chachapoyas	Quechua	wayta	nadar	w ai t a	wayta				taylor2006
 1593	n a d - a	410	swim, to	Chacpar	Quechua	nada.	nadar	n a d a	nada.	esp			heggarty2005
@@ -2030,7 +2030,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 2129	k au ( - ) s a	3737	live, to	Chachapoyas	Quechua	kawsa	vivir	k au s a	kawsa				taylor2006
 2130	k a w a	12	live, to	Chacpar	Quechua	kawa.	vivir	k a w a	kawa.				heggarty2005
 2131	k au ( - ) s a	3737	live, to	Chetilla	Quechua	kawsa.	vivir	k au s a	kawsa.				heggarty2005
-2132	z h e t z	3738	live, to	Chipaya	Uru-Chipaya	zhet-z	vivir	z h e t z	zhet-z				heggarty2005
+2132	zʰ e t z	3738	live, to	Chipaya	Uru-Chipaya	zhet-z	vivir	zʰ e t z	zhet-z				heggarty2005
 2133	k au ( - ) s a	3737	live, to	Curva	Quechua	kawsa.	vivir	k au s a	kawsa.				heggarty2005
 2134	k au ( - ) s a	3737	live, to	Cuzco	Quechua	kawsa.	vivir	k au s a	kawsa.				heggarty2005
 2135	k au ( - ) s a	3737	live, to	CuzquenoAntiguo	Quechua	cauçay	vivir	k au s a	cauçay				holguin1608
@@ -2279,13 +2279,13 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 2386	j a tʃ a + n i	3326 0	know, to	CuzquenoAntiguo	Quechua	yachani	saber	j a tʃ a + n i	yachani				holguin1608
 2387	j a tʃ a	3326	know, to	Huallaga	Quechua	yača.	saber	j a tʃ a	yača.				heggarty2005
 2388	j a ʈʂ a	3326	know, to	Huanca	Quechua	yatray	saber	j a ʈʂ a	yatray				cerron2018
-2390	j a t - i	277	know, to	Huancane	Aymara	yati.	saber	j a t i	yati.				heggarty2005
+2390	j a t i	277	know, to	Huancane	Aymara	yati.	saber	j a t i	yati.				heggarty2005
 2391	j a ʈ a	3326	know, to	Huangascar	Quechua	yatra-	saber	j a ʈ a	yatra-				shimelman2017
 2392	j a tʃ a	3326	know, to	HuarazHuailas	Quechua	yachay	saber	j a tʃ a	yachay				parkerchavez1976
 2393	j a tʃ a + n a	3326 0	know, to	Imbabura	Quechua	yachana	saber	j a tʃ a + n a	yachana				gomez2009
 2394	j a ʈʂ a	3326	know, to	Inkawasi	Quechua	yaĉa.	saber	j a ʈʂ a	yaĉa.				heggarty2005
-2395	j a t j i	277	know, to	Jaqaru	Aymara	yatyi.	saber	j a t j i	yatyi.				heggarty2005
-2396	j a t j i	277	know, to	Kawki	Aymara	yatyi.	saber	j a t j i	yatyi.				heggarty2005
+2395	j a tʲ i	277	know, to	Jaqaru	Aymara	yatyi.	saber	j a tʲ i	yatyi.				heggarty2005
+2396	j a tʲ i	277	know, to	Kawki	Aymara	yatyi.	saber	j a tʲ i	yatyi.				heggarty2005
 2397	j a tʃ a	3326	know, to	Lamas	Quechua	yacha	saber	j a tʃ a	yacha				taylor2006
 2398	j a ʈʂ a	3326	know, to	Laraos	Quechua	yaĉa.	saber	j a ʈʂ a	yaĉa.				heggarty2005
 2399	j a ʈ a	3326	know, to	Lincha-Tana	Quechua	yatra-	saber	j a ʈ a	yatra-				shimelman2017
@@ -2294,7 +2294,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 2402	j a ʈʂ a	3326	know, to	Pacaraos	Quechua	yatra	saber	j a ʈʂ a	yatra				adelaar1982
 2404	j a tʃ a + n a	3326 0	know, to	Pastaza	Quechua	yachana	saber	j a tʃ a + n a	yachana				landerman1973
 2405	j a tʃ a	3326	know, to	Pocona	Quechua	yača.	saber	j a tʃ a	yača.				heggarty2005
-2406	j a t - i	277	know, to	Puki	Aymara	yati.	saber	j a t i	yati.				heggarty2005
+2406	j a t i	277	know, to	Puki	Aymara	yati.	saber	j a t i	yati.				heggarty2005
 2407	j a tʃ a	3326	know, to	Puno	Quechua	yača.	saber	j a tʃ a	yača.				heggarty2005
 2408	j a tʃ a	3326	know, to	Putumayo	Quechua	yacha	saber	j a tʃ a	yacha				tandioy1978
 2409	j a tʃ a	3326	know, to	Raimondi	Quechua	yachay	saber	j a tʃ a	yachay				parkerchavez1976
@@ -2302,7 +2302,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 2411	j a tʃ a	3326	know, to	Santiagueno	Quechua	yachay	saber	j a tʃ a	yachay				juanatey2021
 2412	j a tʃ a + n i	3326 0	know, to	SantoTomas	Quechua	yachani	saber	j a tʃ a + n i	yachani				santotomas1951
 2413	j a tʃ a	3326	know, to	Serena	Quechua	yača.	saber	j a tʃ a	yača.				heggarty2005
-2414	j a t - i	277	know, to	Sullkatiti	Aymara	yati.	saber	j a t i	yati.				heggarty2005
+2414	j a t i	277	know, to	Sullkatiti	Aymara	yati.	saber	j a t i	yati.				heggarty2005
 2415	j a tʃ a	3326	know, to	Taquile	Quechua	yača.	saber	j a tʃ a	yača.				heggarty2005
 2416	j a ʈʂ a	3326	know, to	Tarma	Quechua	yaĉa	saber	j a ʈʂ a	yaĉa				adelaar1977
 2417	j a tʃ a	3326	know, to	Troje	Quechua	yača.	saber	j a tʃ a	yača.				heggarty2005
@@ -2973,7 +2973,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3100	w a n	7626	with	Cacra-Hongos	Quechua	-wan	con	w a n	-wan			suffix	shimelman2017
 3101	w a n	7626	with	Chacpar	Quechua	.wan	con	w a n	.wan			suffix	heggarty2005
 3102	w a n	7626	with	Chetilla	Quechua	.wan	con	w a n	.wan			suffix	heggarty2005
-3103	- z h t a n	7627	with	Chipaya	Uru-Chipaya	.zh.tan	con	z h t a n	.zh.tan, .a.tan			suffix; zh.tan for M, a.tan for F	heggarty2005
+3103	zʰ t a n	391	with	Chipaya	Uru-Chipaya	.zh.tan	con	zʰ t a n	.zh.tan, .a.tan			suffix; zh.tan for M, a.tan for F	heggarty2005
 3104	a - - t a n	7627	with	Chipaya	Uru-Chipaya	.a.tan	con	a t a n	.zh.tan, .a.tan			suffix; zh.tan for M, a.tan for F	heggarty2005
 3105	w a n	7626	with	Curva	Quechua	.wan	con	w a n	.wan			suffix	heggarty2005
 3106	w a n	7626	with	Cuzco	Quechua	.wan	con	w a n	.wan			suffix	heggarty2005
@@ -3009,7 +3009,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3136	( - ) u m a	2769	head	Chachapoyas	Quechua	uma	cabeza	u m a	uma				taylor2006
 3137	( - ) u m a	2769	head	Chacpar	Quechua	uma	cabeza	u m a	uma				heggarty2005
 3138	( - ) u m a	2769	head	Chetilla	Quechua	uma	cabeza	u m a	uma				heggarty2005
-3139	- a tʃ - a	2770	head	Chipaya	Uru-Chipaya	acha	cabeza	a tʃ a	acha				heggarty2005
+3139	- a tʃ a	2770	head	Chipaya	Uru-Chipaya	acha	cabeza	a tʃ a	acha				heggarty2005
 3140	( - ) u m a	2769	head	Curva	Quechua	uma	cabeza	u m a	uma				heggarty2005
 3141	( - ) u m a	2769	head	Cuzco	Quechua	uma	cabeza	u m a	uma				heggarty2005
 3142	( - ) u m a	2769	head	CuzquenoAntiguo	Quechua	vma	cabeza	u m a	vma				holguin1608
@@ -3020,9 +3020,9 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3147	( - ) u m a	2769	head	HuarazHuailas	Quechua	uma	cabeza	u m a	uma				parkerchavez1976
 3148	( - ) u m a	2769	head	Imbabura	Quechua	uma	cabeza	u m a	uma				gomez2009
 3149	( - ) u m a	2769	head	Inkawasi	Quechua	uma	cabeza	u m a	uma				heggarty2005
-3150	- aː tʃ - a	2770	head	Iruhito	Uru-Chipaya	á:tša	cabeza	aː tʃ a	á:tša				cerron2016
+3150	- aː tʃ a	2770	head	Iruhito	Uru-Chipaya	á:tša	cabeza	aː tʃ a	á:tša				cerron2016
 3151	n a m pʼ a	2772	head	Jaqaru	Aymara	namp'a	cabeza	n a m pʼ a	namp'a				heggarty2005
-3152	p a ʈʂ h a	2770	head	Kawki	Aymara	paĉha	cabeza	p a ʈʂ h a	pa(x)ĉha				heggarty2005
+3152	p a ʈʂʰ a	2770	head	Kawki	Aymara	paĉha	cabeza	p a ʈʂʰ a	pa(x)ĉha				heggarty2005
 3153	( - ) u m a	2769	head	Lamas	Quechua	uma	cabeza	u m a	uma				taylor2006
 3154	( - ) u m a	2769	head	Laraos	Quechua	uma	cabeza	u m a	uma				heggarty2005
 3155	( - ) u m a	2769	head	Lincha-Tana	Quechua	uma	cabeza	u m a	uma				shimelman2017
@@ -3117,8 +3117,8 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3250	ɲ a w i	1632	forehead	Imbabura	Quechua	ñawi	frente (la)	ɲ a w i	ñawi				gomez2009
 3251	u r k u	2162	forehead	Inkawasi	Quechua	urku	frente (la)	u r k u	urku				heggarty2005
 3252	aː j a	2165	forehead	Iruhito	Uru-Chipaya	á:ya	frente (la)	aː j a	á:ya				cerron2016
-3253	p a x ʈʂ ( h ) a	300	forehead	Jaqaru	Aymara	paxĉha	frente (la)	p a x ʈʂ h a	paxĉha				heggarty2005
-3254	p a x ʈʂ ( h ) a	300	forehead	Kawki	Aymara	paxĉha	frente (la)	p a x ʈʂ h a	paxĉha				heggarty2005
+3253	p a x ʈʂʰ a	300	forehead	Jaqaru	Aymara	paxĉha	frente (la)	p a x ʈʂʰ a	paxĉha				heggarty2005
+3254	p a x ʈʂʰ a	300	forehead	Kawki	Aymara	paxĉha	frente (la)	p a x ʈʂʰ a	paxĉha				heggarty2005
 3255	u r k u	2162	forehead	Lamas	Quechua	urku	frente (la)	u r k u	urku				taylor2006
 3256	p a q ʈʂ a	2164	forehead	Laraos	Quechua	paqcra	frente (la)	p a q ʈʂ a	paqχra				heggarty2005
 3258	p a q ʈ a	2164	forehead	Lincha-Tana	Quechua	paqtra	frente (la)	p a q ʈ a	paqtra				shimelman2017
@@ -3544,7 +3544,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3685	k i r u	6974	tooth	Chachapoyas	Quechua	kiru	diente	k i r u	kiru				taylor2006
 3686	k i r u	6974	tooth	Chacpar	Quechua	kiru	diente	k i r u	kiru				heggarty2005
 3687	k i r u	6974	tooth	Chetilla	Quechua	kiru	diente	k i r u	kiru				heggarty2005
-3688	i z h q i	63	tooth	Chipaya	Uru-Chipaya	izhqi	diente	i z h q i	izhqi				heggarty2005
+3688	i zʰ q i	63	tooth	Chipaya	Uru-Chipaya	izhqi	diente	i zʰ q i	izhqi				heggarty2005
 3689	k i r u	6974	tooth	Curva	Quechua	kiru	diente	k i r u	kiru				heggarty2005
 3690	k i r u	6974	tooth	Cuzco	Quechua	kiru	diente	k i r u	kiru				heggarty2005
 3691	χ i r u	6974	tooth	CuzquenoAntiguo	Quechua	quiru	diente	χ i r u	quiru				holguin1608
@@ -3555,7 +3555,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3696	k i ɾ u	6974	tooth	HuarazHuailas	Quechua	kiru	diente	k i ɾ u	kiru				parkerchavez1976
 3697	k i ɾ u	6974	tooth	Imbabura	Quechua	kiru	diente	k i ɾ u	kiru				gomez2009
 3698	k i r u	6974	tooth	Inkawasi	Quechua	kiru	diente	k i r u	kiru				heggarty2005
-3699	iː s - k i	63	tooth	Iruhito	Uru-Chipaya	í:sʰki	diente	iː s k i	í:sʰki				cerron2016
+3699	iː s k i	63	tooth	Iruhito	Uru-Chipaya	í:sʰki	diente	iː s k i	í:sʰki				cerron2016
 3700	ʃ i m i	306	tooth	Jaqaru	Aymara	šimi	diente	ʃ i m i	šimi				heggarty2005
 3701	ʃ i m i	306	tooth	Kawki	Aymara	šimi	diente	ʃ i m i	šimi				heggarty2005
 3702	k i r u	6974	tooth	Lamas	Quechua	kiru	diente	k i r u	kiru				taylor2006
@@ -3578,7 +3578,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3719	k i r u	6974	tooth	Taquile	Quechua	kiru	diente	k i r u	kiru				heggarty2005
 3720	k i ɾ u	6974	tooth	Tarma	Quechua	kiru	diente	k i ɾ u	kiru				adelaar1977
 3721	k i r u	6974	tooth	Troje	Quechua	kiru	diente	k i r u	kiru				heggarty2005
-3722	iː s - k eː	63	tooth	Tsimu	Uru-Chipaya	í:ske:	diente	iː s k eː	í:ske:				cerron2016
+3722	iː s k eː	63	tooth	Tsimu	Uru-Chipaya	í:ske:	diente	iː s k eː	í:ske:				cerron2016
 3723	k i ɾ u	6974	tooth	Wari	Quechua	kiru	diente	k i ɾ u	kiru				parkerchavez1976
 3724	k i r u	6974	tooth	Yanac	Quechua	kiru	diente	k i r u	kiru				heggarty2005
 3725	m a k i	2670	hand	Anonimo	Quechua	maqui	mano	m a k i	maqui				valera1586
@@ -3818,7 +3818,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 3963	tʃ a k i	70	foot	Taquile	Quechua	čaki	pie	tʃ a k i	čaki				heggarty2005
 3964	ʈʂ a g i	70	foot	Tarma	Quechua	ĉagi	pie	ʈʂ a g i	ĉagi				adelaar1977
 3965	tʃ a k i	70	foot	Troje	Quechua	čaki	pie	tʃ a k i	čaki				heggarty2005
-3966	k oː t j u	44	foot	Tsimu	Uru-Chipaya	kó:tyu	pie	k oː t j u	kó:tyu, kó:tχu				cerron2016
+3966	k oː tʲ - u	44	foot	Tsimu	Uru-Chipaya	kó:tyu	pie	k oː tʲ u	kó:tyu, kó:tχu				cerron2016
 3967	k oː t χ u	44	foot	Tsimu	Uru-Chipaya	kó:tχu	pie	k oː t χ u	kó:tyu, kó:tχu				cerron2016
 3968	tʃ a k i	70	foot	Wari	Quechua	chaki	pie	tʃ a k i	chaki				parkerchavez1976
 3969	ʈʂ a k i	70	foot	Yanac	Quechua	ĉaki	pie	ʈʂ a k i	ĉaki				heggarty2005
@@ -4907,7 +4907,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5075	r u n a	3892	man SW person	Chachapoyas	Quechua	runa	persona, ser humano	r u n a	runa				taylor2006
 5076	r u n a	3892	man SW person	Chacpar	Quechua	runa	persona, ser humano	r u n a	runa				heggarty2005
 5077	r u n a	3892	man SW person	Chetilla	Quechua	runa	persona, ser humano	r u n a	runa				heggarty2005
-5078	z h o ɲ i	3893	man SW person	Chipaya	Uru-Chipaya	zhoñi	persona, ser humano	z h o ɲ i	zhoñi				heggarty2005
+5078	zʰ o ɲ i	3893	man SW person	Chipaya	Uru-Chipaya	zhoñi	persona, ser humano	zʰ o ɲ i	zhoñi				heggarty2005
 5079	r u n a	3892	man SW person	Curva	Quechua	runa	persona, ser humano	r u n a	runa				heggarty2005
 5080	r u n a	3892	man SW person	Cuzco	Quechua	runa	persona, ser humano	r u n a	runa				heggarty2005
 5081	r u n a	3892	man SW person	CuzquenoAntiguo	Quechua	runa	persona, ser humano	r u n a	runa				holguin1608
@@ -5103,14 +5103,14 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5280	s u t i	4269	name	CuzquenoAntiguo	Quechua	ʃuti	nombre	s u t i	ʃuti				holguin1608
 5281	h u t i	4269	name	Huallaga	Quechua	huti	nombre	h u t i	huti				heggarty2005
 5282	s u t i	4269	name	Huanca	Quechua	suti	nombre	s u t i	suti				cerron2018
-5283	s u t ( - ) i	324	name	Huancane	Aymara	suti	nombre	s u t i	suti				heggarty2005
+5283	s u t i	324	name	Huancane	Aymara	suti	nombre	s u t i	suti				heggarty2005
 5284	s u t i	4269	name	Huangascar	Quechua	suti	nombre	s u t i	suti				shimelman2017
 5285	x u t i	4269	name	HuarazHuailas	Quechua	huti	nombre	x u t i	huti				parkerchavez1976
 5286	ʃ u t i	4269	name	Imbabura	Quechua	shuti	nombre	ʃ u t i	shuti				gomez2009
 5287	ʃ u t i	4269	name	Inkawasi	Quechua	šuti	nombre	ʃ u t i	šuti				heggarty2005
 5288	t uː -	19	name	Iruhito	Uru-Chipaya	tu:	nombre	t uː	tu:				cerron2016
-5289	ʃ u t ( j ) i	324	name	Jaqaru	Aymara	šutyi	nombre	ʃ u t j i	šutyi				heggarty2005
-5290	ʃ u t ( j ) i	324	name	Kawki	Aymara	šutyi	nombre	ʃ u t j i	šutyi				heggarty2005
+5289	ʃ u tʲ i	324	name	Jaqaru	Aymara	šutyi	nombre	ʃ u tʲ i	šutyi				heggarty2005
+5290	ʃ u tʲ i	324	name	Kawki	Aymara	šutyi	nombre	ʃ u tʲ i	šutyi				heggarty2005
 5291	ʃ u t i	4269	name	Lamas	Quechua	shuti	nombre	ʃ u t i	shuti				taylor2006
 5292	s u t i	4269	name	Laraos	Quechua	suti	nombre	s u t i	suti				heggarty2005
 5293	s u t i	4269	name	Lincha-Tana	Quechua	suti	nombre	s u t i	suti				shimelman2017
@@ -5119,7 +5119,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5296	x u t i	4269	name	Pacaraos	Quechua	huti	nombre	x u t i	huti				adelaar1982
 5297	ʃ u t i	4269	name	Pastaza	Quechua	shuti	nombre	ʃ u t i	shuti				landerman1973
 5298	s u t i	4269	name	Pocona	Quechua	suti	nombre	s u t i	suti				heggarty2005
-5299	s u t ( - ) i	324	name	Puki	Aymara	suti	nombre	s u t i	suti				heggarty2005
+5299	s u t i	324	name	Puki	Aymara	suti	nombre	s u t i	suti				heggarty2005
 5300	s u t i	4269	name	Puno	Quechua	suti	nombre	s u t i	suti				heggarty2005
 5301	s u t i	4269	name	Putumayo	Quechua	suti	nombre	s u t i	suti				tandioy1978
 5302	x u t i	4269	name	Raimondi	Quechua	huti	nombre	x u t i	huti				parkerchavez1976
@@ -5127,7 +5127,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5304	s u t i	4269	name	Santiagueno	Quechua	suti	nombre	s u t i	suti				juanatey2021
 5305	χ u t i	4269	name	SantoTomas	Quechua	xuti	nombre	χ u t i	xuti				santotomas1951
 5306	ʃ u t i	4269	name	Serena	Quechua	šuti	nombre	ʃ u t i	šuti				heggarty2005
-5307	s u t ( - ) i	324	name	Sullkatiti	Aymara	suti	nombre	s u t i	suti				heggarty2005
+5307	s u t i	324	name	Sullkatiti	Aymara	suti	nombre	s u t i	suti				heggarty2005
 5308	s u t i	4269	name	Taquile	Quechua	suti	nombre	s u t i	suti				heggarty2005
 5309	χ o t i	4269	name	Tarma	Quechua	xuti	nombre	χ o t i	xuti				adelaar1977
 5310	ʃ u t i	4269	name	Troje	Quechua	šuti	nombre	ʃ u t i	šuti				heggarty2005
@@ -5486,15 +5486,15 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5670	i n t i	6400	sun	CuzquenoAntiguo	Quechua	inti	sol	i n t i	inti				holguin1608
 5671	i n t i	6400	sun	Huallaga	Quechua	inti	sol	i n t i	inti				heggarty2005
 5672	i n t i	6400	sun	Huanca	Quechua	inti	sol	i n t i	inti				cerron2018
-5673	i n t ( - ) i	325	sun	Huancane	Aymara	inti	sol	i n t i	inti				heggarty2005
+5673	i n t i	325	sun	Huancane	Aymara	inti	sol	i n t i	inti				heggarty2005
 5674	i n t i	6400	sun	Huangascar	Quechua	inti	sol	i n t i	inti				shimelman2017
 5676	i ɲ t i	6400	sun	HuarazHuailas	Quechua	inti	sol	i ɲ t i	inti				parkerchavez1976
 5677	i n t i	6400	sun	Imbabura	Quechua	inti	sol	i n t i	inti				gomez2009
 5678	r u p ai	6401	sun	Inkawasi	Quechua	rupa.y	sol	r u p ai	rupa.y				heggarty2005
 5679	t ( h ) uː ɲ i	6403	sun	Iruhito	Uru-Chipaya	thú:ñi	sol	t h uː ɲ i	thú:ñi, tú:ni				cerron2016
 5680	t ( - ) uː n i	6403	sun	Iruhito	Uru-Chipaya	tú:ni	sol	t uː n i	thú:ñi, tú:ni				cerron2016
-5681	i n t ( - ) i	325	sun	Jaqaru	Aymara	inti	sol	i n t i	inti				heggarty2005
-5682	i n t ( j ) i	325	sun	Kawki	Aymara	intyi	sol	i n t j i	intyi				heggarty2005
+5681	i n t i	325	sun	Jaqaru	Aymara	inti	sol	i n t i	inti				heggarty2005
+5682	i n tʲ i	325	sun	Kawki	Aymara	intyi	sol	i n tʲ i	intyi				heggarty2005
 5683	i n d i	6400	sun	Lamas	Quechua	inti	sol	i n d i	inti				taylor2006
 5684	i n t i	6400	sun	Laraos	Quechua	inti	sol	i n t i	inti				heggarty2005
 5685	i n t i	6400	sun	Lincha-Tana	Quechua	inti	sol	i n t i	inti				shimelman2017
@@ -5503,7 +5503,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5689	w i l k a	6404	sun	Pacaraos	Quechua	wilka	sol	w i l k a	wilka				adelaar1982
 5690	i n d i	6400	sun	Pastaza	Quechua	indi	sol	i n d i	indi				landerman1973
 5691	i n t i	6400	sun	Pocona	Quechua	inti	sol	i n t i	inti				heggarty2005
-5692	i n t ( - ) i	325	sun	Puki	Aymara	inti	sol	i n t i	inti				heggarty2005
+5692	i n t i	325	sun	Puki	Aymara	inti	sol	i n t i	inti				heggarty2005
 5693	i n t i	6400	sun	Puno	Quechua	inti	sol	i n t i	inti				heggarty2005
 5694	i n d i	6400	sun	Putumayo	Quechua	indi	sol	i n d i	indi				tandioy1978
 5695	i ɲ t i	6400	sun	Raimondi	Quechua	inti	sol	i ɲ t i	inti				parkerchavez1976
@@ -5511,7 +5511,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5698	i n t i	6400	sun	Santiagueno	Quechua	inti	sol	i n t i	inti				juanatey2021
 5699	i n d i	6400	sun	SantoTomas	Quechua	indy	sol	i n d i	indy				santotomas1951
 5700	i n d i	6400	sun	Serena	Quechua	indi	sol	i n d i	indi				heggarty2005
-5701	i n t ( - ) i	325	sun	Sullkatiti	Aymara	inti	sol	i n t i	inti				heggarty2005
+5701	i n t i	325	sun	Sullkatiti	Aymara	inti	sol	i n t i	inti				heggarty2005
 5702	i n t i	6400	sun	Taquile	Quechua	inti	sol	i n t i	inti				heggarty2005
 5703	i n t i	6400	sun	Tarma	Quechua	inti	sol	i n t i	inti				adelaar1977
 5704	i n t i	6400	sun	Troje	Quechua	inti	sol	i n t i	inti				heggarty2005
@@ -5586,16 +5586,16 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 5774	q a n tʃ i s	5464	seven	Cuzco	Quechua	qančis	siete	q a n tʃ i s	qančis				heggarty2005
 5775	q a n tʃ i s	5464	seven	Huallaga	Quechua	qančis	siete	q a n tʃ i s	qančis				heggarty2005
 5776	h a n ʈʂ i ʃ	5464	seven	Huanca	Quechua	qantrish	siete	h a n ʈʂ i ʃ	qantrish				cerron1976
-5777	h a n ʈʂ i ʃ	5464	seven	Huanca	Quechua	qantrish	siete	h a n ʈʂ i ʃ	qantrish				cerron1976
+5777	h a n ʈʂ i ʃ	5464	seven	Jauja	Quechua	qantrish	siete	h a n ʈʂ i ʃ	qantrish				cerron1976
 5778	p a q a l ( - ) q u	5466	seven	Huancane	Aymara	pa.qalqu	siete	p a q a l q u	pa.qalqu				heggarty2005
 5779	q a n tʃ i s	5464	seven	Huangascar	Quechua	qanchis	siete	q a n tʃ i s	qanchis				shimelman2017
 5780	q a ɲ tʃ i s	5464	seven	HuarazHuailas	Quechua	qanchis	siete	q a ɲ tʃ i s	qanchis				parkerchavez1976
 5781	k a n tʃ i s	5464	seven	Imbabura	Quechua	kanchis	siete	k a n tʃ i s	kanchis				gomez2009
 5782	s i e t e	5465	seven	Inkawasi	Quechua	siete	siete	s i e t e	siete	esp			heggarty2005
 5783	t a k u	5468	seven	Iruhito	Uru-Chipaya	tḁ́ku	siete	t a k u	tḁ́ku				cerron2016
-5784	q a n ʈʂ i s ( i )	325	seven	Jaqaru	Aymara	qanĉisi	siete	q a n ʈʂ i s i	qanĉisi				heggarty2005
-5785	q a n ʈʂ i s ( i )	325	seven	Kawki	Aymara	qanĉisi	siete	q a n ʈʂ i s i	qanĉisi, qančisi				heggarty2005
-5786	q a n tʃ i s ( i )	325	seven	Kawki	Aymara	qančisi	siete	q a n tʃ i s i	qanĉisi, qančisi				heggarty2005
+5784	q a n ʈʂ i s i	392	seven	Jaqaru	Aymara	qanĉisi	siete	q a n ʈʂ i s i	qanĉisi				heggarty2005
+5785	q a n ʈʂ i s i	392	seven	Kawki	Aymara	qanĉisi	siete	q a n ʈʂ i s i	qanĉisi, qančisi				heggarty2005
+5786	q a n tʃ i s i	392	seven	Kawki	Aymara	qančisi	siete	q a n tʃ i s i	qanĉisi, qančisi				heggarty2005
 5787	k a n tʃ i s	5464	seven	Lamas	Quechua	kanchis	siete	k a n tʃ i s	kanchis				taylor2006
 5788	q a n ʈʂ i s	5464	seven	Laraos	Quechua	qanĉis	siete	q a n ʈʂ i s	qanĉis				heggarty2005
 5789	q a n tʃ i s	5464	seven	Lincha-Tana	Quechua	qanchis	siete	q a n tʃ i s	qanchis				shimelman2017
@@ -5881,7 +5881,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 6073	n i n a	1887	fire	Chachapoyas	Quechua	nina	fuego	n i n a	nina				taylor2006
 6074	n i n a	1887	fire	Chacpar	Quechua	nina	fuego	n i n a	nina				heggarty2005
 6075	n i n a	1887	fire	Chetilla	Quechua	nina	fuego	n i n a	nina				heggarty2005
-6076	z h q e t i	1888	fire	Chipaya	Uru-Chipaya	zhqeti	fuego	z h q e t i	zhqeti				heggarty2005
+6076	zʰ q e t i	1888	fire	Chipaya	Uru-Chipaya	zhqeti	fuego	zʰ q e t i	zhqeti				heggarty2005
 6077	n i n a	1887	fire	Curva	Quechua	nina	fuego	n i n a	nina				heggarty2005
 6078	n i n a	1887	fire	Cuzco	Quechua	nina	fuego	n i n a	nina				heggarty2005
 6079	n i n a	1887	fire	CuzquenoAntiguo	Quechua	nina	fuego	n i n a	nina				holguin1608
@@ -5929,7 +5929,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 6121	k u s n i	5991	smoke	Chachapoyas	Quechua	kusni	humo	k u s n i	kusni				taylor2006
 6122	q u ʃ ɲ i	5991	smoke	Chacpar	Quechua	qu.šñi	humo	q u ʃ ɲ i	qu.šñi				heggarty2005
 6123	q u n d ai	459	smoke	Chetilla	Quechua	qu.nday	humo	q u n d ai	qu.nday				heggarty2005
-6124	z h q e t i	5995	smoke	Chipaya	Uru-Chipaya	zhqeti	humo	z h q e t i	zhqeti				heggarty2005
+6124	zʰ q e t i	5995	smoke	Chipaya	Uru-Chipaya	zhqeti	humo	zʰ q e t i	zhqeti				heggarty2005
 6125	qʼ u s ɲ i	5991	smoke	Curva	Quechua	q'u.sñi	humo	qʼ u s ɲ i	q'u.sñi				heggarty2005
 6126	qʼ u s ɲ i	5991	smoke	Cuzco	Quechua	q'u.sñi	humo	qʼ u s ɲ i	q'u.sñi				heggarty2005
 6127	k u s n i	5991	smoke	CuzquenoAntiguo	Quechua	kozni	humo	k u s n i	kozni				holguin1608
@@ -5942,7 +5942,6 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 6134	k u ʃ n i	5991	smoke	Imbabura	Quechua	kushni	humo	k u ʃ n i	kushni				gomez2009
 6135	χ u n d ai	459	smoke	Inkawasi	Quechua	χu.nday	humo	χ u n d ai	χu.nday				heggarty2005
 6136	tsʼ u s q i	5996	smoke	Jaqaru	Aymara	ts'usqi	humo	tsʼ u s q i	ts'usqi, ts'usqi				heggarty2005
-6137	tsʼ u s q i	5996	smoke	Jaqaru	Aymara	ts'usqi	humo	tsʼ u s q i	ts'usqi, ts'usqi				heggarty2005
 6138	ʈʂʼ u s q i	5996	smoke	Kawki	Aymara	ĉ'usqi	humo	ʈʂʼ u s q i	ĉ'usqi, ts'usqi				heggarty2005
 6139	tsʼ u s q i	5996	smoke	Kawki	Aymara	ts'usqi	humo	tsʼ u s q i	ĉ'usqi, ts'usqi				heggarty2005
 6140	k u s n i	5991	smoke	Lamas	Quechua	kusni	humo	k u s n i	kusni				taylor2006
@@ -6461,8 +6460,8 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 6674	k a tʃ i	5237	salt	Imbabura	Quechua	kachi	sal	k a tʃ i	kachi				gomez2009
 6675	k a ʈʂ i	5237	salt	Inkawasi	Quechua	kaĉi	sal	k a ʈʂ i	kaĉi				heggarty2005
 6676	j eː k - uː	5238	salt	Iruhito	Uru-Chipaya	yé:ku:	sal	j eː k uː	yé:ku:				cerron2016
-6677	k a t j i	336	salt	Jaqaru	Aymara	katyi	sal	k a t j i	katyi				heggarty2005
-6678	k a t j i	336	salt	Kawki	Aymara	katyi	sal	k a t j i	katyi				heggarty2005
+6677	k a tʲ i	336	salt	Jaqaru	Aymara	katyi	sal	k a tʲ i	katyi				heggarty2005
+6678	k a tʲ i	336	salt	Kawki	Aymara	katyi	sal	k a tʲ i	katyi				heggarty2005
 6679	k a tʃ i	5237	salt	Lamas	Quechua	kachi	sal	k a tʃ i	kachi				taylor2006
 6680	k a ʈʂ i	5237	salt	Laraos	Quechua	kaĉi	sal	k a ʈʂ i	kaĉi				heggarty2005
 6681	k a ʈʂ i	5237	salt	Lincha-Tana	Quechua	katri	sal	k a ʈʂ i	katri				shimelman2017
@@ -6896,8 +6895,8 @@ ID	ALIGNMENT	COGIDS	CONCEPT	DOCULECT	SUBGROUP	FORM	SPANISH	TOKENS	VALUE	BORROWIN
 7127	s i s a	1987	flower	Imbabura	Quechua	sisa	flor	s i s a	sisa				gomez2009
 7128	t u k t u	1990	flower	Inkawasi	Quechua	tuktu	flor	t u k t u	tuktu				heggarty2005
 7129	p a n k a r a	206	flower	Iruhito	Uru-Chipaya	pankár̂a	flor	p a n k a r a	pankár̂a				cerron2016
-7130	w ai t ( - ) a	346	flower	Jaqaru	Aymara	wayta	flor	w ai t a	wayta				heggarty2005
-7131	w ai t ( j ) a	346	flower	Kawki	Aymara	waytya	flor	w ai t j a	waytya				heggarty2005
+7130	w ai t a	346	flower	Jaqaru	Aymara	wayta	flor	w ai t a	wayta				heggarty2005
+7131	w ai tʲ a	346	flower	Kawki	Aymara	waytya	flor	w ai tʲ a	waytya				heggarty2005
 7132	s i s a	1987	flower	Lamas	Quechua	sisa	flor	s i s a	sisa				taylor2006
 7133	w ai t a	1989	flower	Laraos	Quechua	wayta	flor	w ai t a	wayta				heggarty2005
 7135	s i s a	1987	flower	Lincha-Tana	Quechua	sisa	flor	s i s a	sisa				shimelman2017

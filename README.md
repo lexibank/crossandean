@@ -1,5 +1,7 @@
 # CLDF dataset derived from Blum et al.'s "A phylolinguistic classification of the Quechua language family" from 2023
 
+[![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -26,23 +28,24 @@ Furthermore, this dataset is part of an ongoing research project which searches 
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/crossandean/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/crossandean/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 78%](https://img.shields.io/badge/Glottolog-78%25-yellow.svg "Glottolog: 78%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 50
-- **Concepts:** 150
-- **Lexemes:** 7,519
+- **Varieties:** 50 (linked to 39 different Glottocodes)
+- **Concepts:** 150 (linked to 150 different Concepticon concept sets)
+- **Lexemes:** 7,518
 - **Sources:** 28
 - **Synonymy:** 1.05
-- **Cognacy:** 7,519 cognates in 1,034 cognate sets (476 singletons)
+- **Cognacy:** 7,518 cognates in 1,036 cognate sets (478 singletons)
 - **Cognate Diversity:** 0.12
 - **Invalid lexemes:** 0
-- **Tokens:** 33,729
-- **Segments:** 89 (0 BIPA errors, 0 CLTS sound class errors, 89 CLTS modified)
-- **Inventory size (avg):** 32.68
+- **Tokens:** 33,692
+- **Segments:** 92 (0 BIPA errors, 0 CLTS sound class errors, 92 CLTS modified)
+- **Inventory size (avg):** 32.80
 
 # Contributors
 
@@ -52,7 +55,7 @@ Frederic Blum | @FredericBlum | maintainer | Author |
 Carlos B. Ugarte | @MuffinLinwist | maintainer | Author |
 Adriano Ingunza | @BadBatched | maintainer | Author |
 Zoe Poirier | @zrpm | maintainer | Author |
-Mattis List | @LinguList | maintainer | Other |
+Mattis List | @LinguList | maintainer | Editor |
 
 
 
