@@ -16,19 +16,19 @@
         {
             "rdf:about": "https://github.com/lexibank/crossandean",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-8-gfcf82a7",
+            "dc:created": "v1.1-11-g3724171",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.0-1-g6179f7fca2",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2.0",
+            "dc:created": "v3.2.0-11-gdb0c6460",
             "dc:title": "Concepticon"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.2"
+            "dc:description": "3.12.4"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7519,
+            "dc:extent": 7518,
             "tableSchema": {
                 "columns": [
                     {
@@ -278,7 +278,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7519,
+            "dc:extent": 7518,
             "tableSchema": {
                 "columns": [
                     {

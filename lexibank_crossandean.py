@@ -13,13 +13,6 @@ def unmerge(sequence):
     return out
 
 
-def unmerge(sequence):
-    out = []
-    for tok in sequence:
-        out += tok.split('.')
-    return out
-
-
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
     Borrowing = attr.ib(default=None)
@@ -43,7 +36,7 @@ class Dataset(pylexibank.Dataset):
 
     form_spec = pylexibank.FormSpec(separators=",")
 
-    def cmd_download(self):
+    def cmd_download(self, args):
         """Download most recent data from EDICTOR."""
         print("updating ...")
         with open(self.raw_dir.joinpath("crossandean.tsv"), "w", encoding="utf-8") as f:

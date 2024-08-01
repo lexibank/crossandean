@@ -1,5 +1,5 @@
 import json
-from setuptools import setup
+from setuptools import setup, find_packages
 
 
 with open('metadata.json', encoding='utf-8') as fp:
@@ -13,6 +13,7 @@ setup(
     url=metadata.get("url", ""),
     py_modules=["lexibank_crossandean"],
     include_package_data=True,
+    packages=find_packages(where="."),
     zip_safe=False,
     entry_points={
         "lexibank.dataset": ["blumquechua=lexibank_crossandean:Dataset"],
