@@ -21,6 +21,14 @@
     ],
     "contributors": [
         {
+            "name": "Frederic Blum",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos B. Ugarte",
+            "type": "Editor"
+        },
+        {
             "name": "Mattis List",
             "type": "Editor"
         }
