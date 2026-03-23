@@ -3,8 +3,6 @@ import attr
 from clldutils.misc import slug
 from lingpy import Wordlist
 import pylexibank
-from pyedictor import fetch
-
 
 def unmerge(sequence):
     out = []
@@ -35,31 +33,6 @@ class Dataset(pylexibank.Dataset):
     lexeme_class = CustomLexeme
 
     form_spec = pylexibank.FormSpec(separators=",")
-
-    def cmd_download(self, args):
-        """Download most recent data from EDICTOR."""
-        print("updating ...")
-        with open(self.raw_dir.joinpath("crossandean.tsv"), "w", encoding="utf-8") as f:
-            f.write(
-                fetch(
-                    "crossandean",
-                    columns=[
-                        "ALIGNMENT",
-                        "COGIDS",
-                        "CONCEPT",
-                        "DOCULECT",
-                        "SUBGROUP",
-                        "FORM",
-                        "SPANISH",
-                        "TOKENS",
-                        "VALUE",
-                        "BORROWING",
-                        "MORPHEMES",
-                        "NOTE",
-                        "SOURCE",
-                    ],
-                )
-            )
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
